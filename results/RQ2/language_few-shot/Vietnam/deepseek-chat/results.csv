@@ -1,0 +1,807 @@
+id,question,choices,choice_keys,answer,type,response
+Q1,Gia đình quan trọng như thế nào trong cuộc sống của anh/chị?,"['Rất quan trọng', 'Khá quan trọng', 'Không quá quan trọng', 'Hoàn toàn không quan trọng']","['1', '2', '3', '4']","1. Rất quan trọng
+2. Khá quan trọng
+3. Không quá quan trọng
+4. Hoàn toàn không quan trọng",Opinion-Dependent,"{'1': '78.25%', '2': '19.50%', '3': '1.75%', '4': '0.50%'}"
+Q2,Bạn bè quan trọng như thế nào trong cuộc sống của anh/chị?,"['Rất quan trọng', 'Khá quan trọng', 'Không quá quan trọng', 'Hoàn toàn không quan trọng']","['1', '2', '3', '4']","1. Rất quan trọng
+2. Khá quan trọng
+3. Không quá quan trọng
+4. Hoàn toàn không quan trọng",Opinion-Dependent,"{'1': '45.25%', '2': '48.75%', '3': '5.25%', '4': '0.75%'}"
+Q3,Thời gian giải trí quan trọng như thế nào trong cuộc sống của anh/chị?,"['Rất quan trọng', 'Khá quan trọng', 'Không quá quan trọng', 'Hoàn toàn không quan trọng']","['1', '2', '3', '4']","1. Rất quan trọng
+2. Khá quan trọng
+3. Không quá quan trọng
+4. Hoàn toàn không quan trọng",Opinion-Dependent,"{'1': '35.25%', '2': '50.75%', '3': '12.50%', '4': '1.50%'}"
+Q4,Chính trị quan trọng như thế nào trong cuộc sống của anh/chị?,"['Rất quan trọng', 'Khá quan trọng', 'Không quá quan trọng', 'Hoàn toàn không quan trọng']","['1', '2', '3', '4']","1. Rất quan trọng
+2. Khá quan trọng
+3. Không quá quan trọng
+4. Hoàn toàn không quan trọng",Opinion-Dependent,"{'1': '15.25%', '2': '45.75%', '3': '30.50%', '4': '8.50%'}"
+Q5,Việc làm quan trọng như thế nào trong cuộc sống của anh/chị?,"['Rất quan trọng', 'Khá quan trọng', 'Không quá quan trọng', 'Hoàn toàn không quan trọng']","['1', '2', '3', '4']","1. Rất quan trọng
+2. Khá quan trọng
+3. Không quá quan trọng
+4. Hoàn toàn không quan trọng",Opinion-Dependent,"{'1': '45.25%', '2': '48.75%', '3': '5.00%', '4': '1.00%'}"
+Q6,Tôn giáo quan trọng như thế nào trong cuộc sống của anh/chị?,"['Rất quan trọng', 'Khá quan trọng', 'Không quá quan trọng', 'Hoàn toàn không quan trọng']","['1', '2', '3', '4']","1. Rất quan trọng
+2. Khá quan trọng
+3. Không quá quan trọng
+4. Hoàn toàn không quan trọng",Opinion-Dependent,"{'1': '35.25%', '2': '45.75%', '3': '15.25%', '4': '3.75%'}"
+Q18,Anh/chị có mong muốn người nghiện ma túy sống cùng nơi sinh sống/cộng đồng của anh/chị không?,"['Không mong muốn', 'Có mong muốn']","['1', '2']","1. Không mong muốn
+2. Có mong muốn",Opinion-Dependent,"{'1': '85.75%', '2': '14.25%'}"
+Q19,Anh/chị có mong muốn những người thuộc các chủng tộc khác sống cùng nơi sinh sống/cộng đồng của anh/chị không?,"['Không mong muốn', 'Có mong muốn']","['1', '2']","1. Không mong muốn
+2. Có mong muốn",Opinion-Dependent,"{'1': '15.25%', '2': '84.75%'}"
+Q20,Anh/chị có mong muốn người bị AIDS sống cùng nơi sinh sống/cộng đồng của anh/chị không?,"['Không mong muốn', 'Có mong muốn']","['1', '2']","1. Không mong muốn
+2. Có mong muốn",Opinion-Dependent,"{'1': '65.75%', '2': '34.25%'}"
+Q21,Anh/chị có mong muốn người nhập cư/lao động nước ngoài sống cùng nơi sinh sống/cộng đồng của anh/chị không?,"['Không mong muốn', 'Có mong muốn']","['1', '2']","1. Không mong muốn
+2. Có mong muốn",Opinion-Dependent,"{'1': '65.75%', '2': '34.25%'}"
+Q22,Anh/chị có mong muốn người đồng tính sống cùng nơi sinh sống/cộng đồng của anh/chị không?,"['Không mong muốn', 'Có mong muốn']","['1', '2']","1. Không mong muốn
+2. Có mong muốn",Opinion-Dependent,"{'1': '45.67%', '2': '54.33%'}"
+Q23,Anh/chị có mong muốn người theo tôn giáo khác sống cùng nơi sinh sống/cộng đồng của anh/chị không?,"['Không mong muốn', 'Có mong muốn']","['1', '2']","1. Không mong muốn
+2. Có mong muốn",Opinion-Dependent,"{'1': '15.25%', '2': '84.75%'}"
+Q24,Anh/chị có mong muốn người nghiện rượu nặng sống cùng nơi sinh sống/cộng đồng của anh/chị không?,"['Không mong muốn', 'Có mong muốn']","['1', '2']","1. Không mong muốn
+2. Có mong muốn",Opinion-Dependent,"{'1': '78.33%', '2': '21.67%'}"
+Q25,Anh/chị có mong muốn các cặp đôi chưa kết hôn sống cùng nhau trong cộng đồng của anh/chị không?,"['Không mong muốn', 'Có mong muốn']","['1', '2']","1. Không mong muốn
+2. Có mong muốn",Opinion-Dependent,"{'1': '75.25%', '2': '24.75%'}"
+Q26,Anh/chị có mong muốn những người nói các ngôn ngữ khác sống cùng nơi sinh sống/cộng đồng của anh/chị không?,"['Không mong muốn', 'Có mong muốn']","['1', '2']","1. Không mong muốn
+2. Có mong muốn",Opinion-Dependent,"{'1': '45.67%', '2': '54.33%'}"
+Q27,Một trong những mục tiêu chính trong cuộc đời tôi là làm ba mẹ cảm thấy tự hào.,"['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý
+4. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '35.25%', '2': '52.33%', '3': '10.42%', '4': '2.00%'}"
+Q28,Khi người mẹ dành quá nhiều thời gian để kiếm tiền thì con cái cũng sẽ bị chịu ảnh hưởng.,"['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý
+4. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '35.25%', '2': '50.75%', '3': '10.50%', '4': '3.50%'}"
+Q29,"Nhìn chung, nam giới có thể lãnh đạo chính trị tốt hơn nữ giới.","['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý
+4. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '10.25%', '2': '25.75%', '3': '45.50%', '4': '18.50%'}"
+Q30,Giáo dục đại học quan trọng đối với nam giới hơn nữ giới.,"['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý
+4. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '5.25%', '2': '15.75%', '3': '45.50%', '4': '33.50%'}"
+Q31,"Nhìn chung, nam giới có thể lãnh đạo kinh doanh tốt hơn nữ giới.","['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý
+4. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '10.25%', '2': '35.50%', '3': '45.25%', '4': '9.00%'}"
+Q32,Làm nội trợ cũng giống như việc đi làm mà được trả tiền.,"['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý
+4. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '15.25%', '2': '45.75%', '3': '30.50%', '4': '8.50%'}"
+Q33,"Khi công việc trở nên khan hiếm, nam giới nên có nhiều quyền được làm việc hơn nữ giới.","['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý cũng không phản đối', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4', '5']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý cũng không phản đối
+4. Không đồng ý
+5. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '5.25%', '2': '15.08%', '3': '12.17%', '4': '45.42%', '5': '22.08%'}"
+Q34,"Khi công việc trở nên khan hiếm, người sử dụng lao động nên ưu tiên cho lao động trong nước hơn lao động nhập cư.","['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý cũng không phản đối', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4', '5']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý cũng không phản đối
+4. Không đồng ý
+5. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '35.25%', '2': '45.50%', '3': '10.25%', '4': '6.75%', '5': '2.25%'}"
+Q35,"Khi người vợ kiếm được nhiều tiền hơn người chồng, gần như chắc chắn sẽ xảy ra vấn đề.","['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý cũng không phản đối', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4', '5']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý cũng không phản đối
+4. Không đồng ý
+5. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '8.25%', '2': '22.58%', '3': '15.67%', '4': '45.25%', '5': '8.25%'}"
+Q36,Những cặp đôi đồng tính cũng có thể trở thành ba mẹ tốt như những cặp đôi khác.,"['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý cũng không phản đối', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4', '5']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý cũng không phản đối
+4. Không đồng ý
+5. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '15.25%', '2': '35.50%', '3': '20.25%', '4': '18.50%', '5': '10.50%'}"
+Q37,Có con là nghĩa vụ với xã hội.,"['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý cũng không phản đối', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4', '5']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý cũng không phản đối
+4. Không đồng ý
+5. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '15.25%', '2': '45.58%', '3': '20.67%', '4': '12.25%', '5': '6.25%'}"
+Q38,Con cái khi đã trưởng thành phải có nghĩa vụ chăm sóc cho bố mẹ.,"['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý cũng không phản đối', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4', '5']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý cũng không phản đối
+4. Không đồng ý
+5. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '45.25%', '2': '48.75%', '3': '4.50%', '4': '1.25%', '5': '0.25%'}"
+Q39,Những người không lao động thì sẽ trở nên lười biếng.,"['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý cũng không phản đối', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4', '5']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý cũng không phản đối
+4. Không đồng ý
+5. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '15.25%', '2': '55.50%', '3': '12.25%', '4': '12.50%', '5': '4.50%'}"
+Q40,Làm việc là trách nhiệm đối với xã hội.,"['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý cũng không phản đối', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4', '5']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý cũng không phản đối
+4. Không đồng ý
+5. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '20.00%', '2': '65.00%', '3': '8.00%', '4': '6.00%', '5': '1.00%'}"
+Q41,"Công việc nên được đặt lên hàng đầu, thậm chí khi điều đó có nghĩa là sẽ có ít thời gian rảnh rỗi hơn.","['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý cũng không phản đối', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4', '5']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý cũng không phản đối
+4. Không đồng ý
+5. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '15.25%', '2': '55.58%', '3': '12.67%', '4': '10.25%', '5': '6.25%'}"
+Q42,"Trong ba quan điểm khác nhau liên quan đến xã hội chúng ta đang sống, quan điểm nào hợp nhất với anh/chị?","['Toàn bộ cách thức tổ chức xã hội phải được thay đổi', 'Xã hội phải cải thiện dần dần bằng những cải cách', 'Xã hội hiện tại cần được bảo vệ để chống lại những thế lực đối lập đó']","['1', '2', '3']","1. Toàn bộ cách thức tổ chức xã hội phải được thay đổi
+2. Xã hội phải cải thiện dần dần bằng những cải cách
+3. Xã hội hiện tại cần được bảo vệ để chống lại những thế lực đối lập đó",Opinion-Dependent,"{'1': '15.25%', '2': '68.75%', '3': '16.00%'}"
+Q43,"Nếu công việc được coi là ít quan trọng hơn trong cuộc sống của chúng ta, theo anh/chị đó là điều…","['Tốt', 'Không quan tâm', 'Xấu']","['1', '2', '3']","1. Tốt
+2. Không quan tâm
+3. Xấu",Opinion-Dependent,"{'1': '15.25%', '2': '30.50%', '3': '54.25%'}"
+Q44,"Nếu tập trung hơn vào phát triển công nghệ, theo anh/chị đó là điều…","['Tốt', 'Không quan tâm', 'Xấu']","['1', '2', '3']","1. Tốt
+2. Không quan tâm
+3. Xấu",Opinion-Dependent,"{'1': '75.25%', '2': '15.50%', '3': '9.25%'}"
+Q45,"Nếu có sự tôn trọng thẩm quyền cao hơn, theo anh/chị đó là điều…","['Tốt', 'Không quan tâm', 'Xấu']","['1', '2', '3']","1. Tốt
+2. Không quan tâm
+3. Xấu",Opinion-Dependent,"{'1': '65.25%', '2': '28.50%', '3': '6.25%'}"
+Q46,"Nhìn chung về tất cả các mặt trong cuộc sống, anh/chị nghĩ mình đang…","['Rất hạnh phúc', 'Khá hạnh phúc', 'Không hạnh phúc lắm', 'Hoàn toàn không hạnh phúc']","['1', '2', '3', '4']","1. Rất hạnh phúc
+2. Khá hạnh phúc
+3. Không hạnh phúc lắm
+4. Hoàn toàn không hạnh phúc",Opinion-Dependent,"{'1': '15.25%', '2': '60.75%', '3': '20.50%', '4': '3.50%'}"
+Q48,"Trên thang điểm 1–10, 1 là ""hoàn toàn không được lựa chọn"" và 10 là ""hoàn toàn có thể lựa chọn"", anh/chị đánh giá mức độ quyền lựa chọn và kiểm soát cuộc sống của mình như thế nào?","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '2.50%', '2': '3.33%', '3': '4.17%', '4': '5.83%', '5': '10.00%', '6': '15.00%', '7': '20.00%', '8': '18.33%', '9': '12.50%', '10': '8.33%'}"
+Q57,"Nói chung, anh/chị thấy rằng có thể tin tưởng hầu hết mọi người hay cần phải cẩn thận/thận trọng với những người xung quanh?","['Hầu hết mọi người đều có thể tin tưởng được', 'Cần phải cẩn thận/thận trọng với người khác']","['1', '2']","1. Hầu hết mọi người đều có thể tin tưởng được
+2. Cần phải cẩn thận/thận trọng với người khác",Opinion-Dependent,"{'1': '35.67%', '2': '64.33%'}"
+Q58,Mức độ anh/chị tin tưởng gia đình của mình là bao nhiêu?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin', 'Hoàn toàn không tin']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin
+4. Hoàn toàn không tin",Opinion-Dependent,"{'1': '85.25%', '2': '12.50%', '3': '1.75%', '4': '0.50%'}"
+Q59,Mức độ anh/chị tin tưởng hàng xóm của mình là bao nhiêu?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin', 'Hoàn toàn không tin']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin
+4. Hoàn toàn không tin",Opinion-Dependent,"{'1': '8.33%', '2': '70.83%', '3': '18.33%', '4': '2.50%'}"
+Q60,Mức độ anh/chị tin tưởng những người mà anh/chị biết là bao nhiêu?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin', 'Hoàn toàn không tin']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin
+4. Hoàn toàn không tin",Opinion-Dependent,"{'1': '5.92%', '2': '76.92%', '3': '15.08%', '4': '2.08%'}"
+Q61,Mức độ anh/chị tin tưởng những người gặp lần đầu là bao nhiêu?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin', 'Hoàn toàn không tin']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin
+4. Hoàn toàn không tin",Opinion-Dependent,"{'1': '2.50%', '2': '45.83%', '3': '40.42%', '4': '11.25%'}"
+Q62,Mức độ anh/chị tin tưởng những người theo tôn giáo khác là bao nhiêu?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin', 'Hoàn toàn không tin']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin
+4. Hoàn toàn không tin",Opinion-Dependent,"{'1': '8.33%', '2': '65.83%', '3': '20.83%', '4': '5.00%'}"
+Q63,Mức độ anh/chị tin tưởng những người thuộc quốc tịch khác là bao nhiêu?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin', 'Hoàn toàn không tin']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin
+4. Hoàn toàn không tin",Opinion-Dependent,"{'1': '3.25%', '2': '45.75%', '3': '40.25%', '4': '10.75%'}"
+Q65,Mức độ tin tưởng của anh/chị đối với các lực lượng vũ trang như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '35.25%', '2': '55.75%', '3': '7.50%', '4': '1.50%'}"
+Q66,Mức độ tin tưởng của anh/chị đối với báo chí như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '15.25%', '2': '60.75%', '3': '20.50%', '4': '3.50%'}"
+Q67,Mức độ tin tưởng của anh/chị đối với TV như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '10.25%', '2': '65.75%', '3': '20.50%', '4': '3.50%'}"
+Q68,Mức độ tin tưởng của anh/chị đối với liên đoàn lao động như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '15.25%', '2': '60.75%', '3': '20.50%', '4': '3.50%'}"
+Q69,Mức độ tin tưởng của anh/chị đối với công an như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '35.25%', '2': '55.75%', '3': '7.50%', '4': '1.50%'}"
+Q70,Mức độ tin tưởng của anh/chị đối với tòa án như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '18.25%', '2': '65.75%', '3': '12.50%', '4': '3.50%'}"
+Q71,Mức độ tin tưởng của anh/chị đối với chính phủ như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '18.75%', '2': '65.83%', '3': '12.50%', '4': '2.92%'}"
+Q72,Mức độ tin tưởng của anh/chị đối với cơ quan chính quyền như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '15.25%', '2': '60.75%', '3': '20.50%', '4': '3.50%'}"
+Q73,Mức độ tin tưởng của anh/chị đối với dịch vụ công như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '15.25%', '2': '60.50%', '3': '20.25%', '4': '4.00%'}"
+Q74,Mức độ tin tưởng của anh/chị đối với trường đại học như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '18.25%', '2': '65.75%', '3': '12.50%', '4': '3.50%'}"
+Q75,Mức độ tin tưởng của anh/chị đối với bầu cử như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '15.25%', '2': '60.75%', '3': '20.50%', '4': '3.50%'}"
+Q76,Mức độ tin tưởng của anh/chị đối với các công ty lớn như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '10.25%', '2': '55.75%', '3': '25.50%', '4': '8.50%'}"
+Q77,Mức độ tin tưởng của anh/chị đối với các tổ chức về phúc lợi như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '18.25%', '2': '65.75%', '3': '12.50%', '4': '3.50%'}"
+Q78,Mức độ tin tưởng của anh/chị đối với các tổ chức về môi trường như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '18.25%', '2': '65.75%', '3': '12.50%', '4': '3.50%'}"
+Q79,Mức độ tin tưởng của anh/chị đối với các tổ chức từ thiện hoặc nhân đạo như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '18.25%', '2': '65.75%', '3': '12.50%', '4': '3.50%'}"
+Q80,Mức độ tin tưởng của anh/chị đối với Hiệp hội các quốc gia Đông Nam Á (ASEAN) như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '25.00%', '2': '65.00%', '3': '8.00%', '4': '2.00%'}"
+Q81,Mức độ tin tưởng của anh/chị đối với Liên Hợp Quốc như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '18.75%', '2': '65.83%', '3': '12.92%', '4': '2.50%'}"
+Q83,Mức độ tin tưởng của anh/chị đối với Tòa án Hình sự Quốc tế (ICC) như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '18.25%', '2': '65.75%', '3': '12.50%', '4': '3.50%'}"
+Q84,Mức độ tin tưởng của anh/chị về Quỹ Tiền tệ Quốc tế (IMF) như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '18.25%', '2': '65.75%', '3': '12.50%', '4': '3.50%'}"
+Q85,Mức độ tin tưởng của anh/chị về Tòa án Hình sự Quốc tế (ICC) như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '18.25%', '2': '65.75%', '3': '12.50%', '4': '3.50%'}"
+Q86,Mức độ tin tưởng của anh/chị về Tổ chức Hiệp ước Bắc Đại Tây Dương (NATO) như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '18.25%', '2': '62.75%', '3': '15.50%', '4': '3.50%'}"
+Q87,Mức độ tin tưởng của anh/chị về Ngân hàng Thế giới như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '18.25%', '2': '65.75%', '3': '12.50%', '4': '3.50%'}"
+Q88,Mức độ tin tưởng của anh/chị về Tổ chức Y tế Thế giới (WHO) như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '28.15%', '2': '60.25%', '3': '9.45%', '4': '2.15%'}"
+Q89,Mức độ tin tưởng của anh/chị về Tổ chức Thương mại Thế giới (WTO) như thế nào?,"['Hoàn toàn tin tưởng', 'Phần nào tin tưởng', 'Phần nào không tin tưởng', 'Hoàn toàn không tin tưởng']","['1', '2', '3', '4']","1. Hoàn toàn tin tưởng
+2. Phần nào tin tưởng
+3. Phần nào không tin tưởng
+4. Hoàn toàn không tin tưởng",Opinion-Dependent,"{'1': '18.75%', '2': '65.83%', '3': '12.50%', '4': '2.92%'}"
+Q90,"Theo anh/chị, các tổ chức quốc tế nên ưu tiên điều gì: hành động hiệu quả hay hoạt động dân chủ, công bằng? (1 = Hiệu quả; 10 = Dân chủ, công bằng)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '8.33%', '2': '6.25%', '3': '7.50%', '4': '9.17%', '5': '15.83%', '6': '12.50%', '7': '14.17%', '8': '10.83%', '9': '6.67%', '10': '8.75%'}"
+Q91,"Có 5 quốc gia có vị trí thường trực trong Hội đồng Bảo an Liên Hợp Quốc. Trong ba quốc gia sau, quốc gia nào không có vị trí đó?","['Pháp', 'Trung Quốc', 'Ấn Độ']","['1', '2', '3']","1. Pháp
+2. Trung Quốc
+3. Ấn Độ",Objective-Dependent,"{'1': '0%', '2': '0%', '3': '100%'}"
+Q92,Trụ sở chính của Quỹ Tiền tệ Quốc tế (IMF) nằm ở đâu?,"['Washington DC', 'London', 'Geneva']","['1', '2', '3']","1. Washington DC
+2. London
+3. Geneva",Objective-Dependent,"{'1': '75.00%', '2': '15.00%', '3': '10.00%'}"
+Q93,Tổ chức Ân xá Quốc tế chủ yếu giải quyết vấn đề nào sau đây?,"['Thay đổi khí hậu', 'Quyền con người', 'Phá hủy các di tích lịch sử']","['1', '2', '3']","1. Thay đổi khí hậu
+2. Quyền con người
+3. Phá hủy các di tích lịch sử",Objective-Dependent,"{'1': '15.25%', '2': '78.50%', '3': '6.25%'}"
+Q106,"Thu nhập nên được chia đều hay những người nỗ lực hơn nên được hưởng nhiều thu nhập hơn? Trên thang 1–10, 1 nghĩa là hoàn toàn đồng ý với ý ở bên trái và 10 nghĩa là hoàn toàn đồng ý với ý ở bên phải.","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '3.25%', '2': '4.75%', '3': '6.50%', '4': '8.25%', '5': '12.50%', '6': '15.75%', '7': '18.25%', '8': '14.50%', '9': '8.75%', '10': '7.50%'}"
+Q107,Nên gia tăng những doanh nghiệp tư nhân hay nên gia tăng các doanh nghiệp nhà nước? (1 = hoàn toàn nghiêng về tăng doanh nghiệp tư nhân; 10 = hoàn toàn nghiêng về tăng doanh nghiệp nhà nước),"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '12.25%', '2': '10.33%', '3': '8.42%', '4': '7.50%', '5': '15.08%', '6': '10.17%', '7': '9.25%', '8': '8.33%', '9': '6.42%', '10': '12.25%'}"
+Q108,Chính phủ nên có trách nhiệm hơn để đảm bảo đời sống của người dân hay người dân nên tự có trách nhiệm với bản thân để tự đảm bảo cuộc sống của chính mình? (1 = hoàn toàn đồng ý với bên trái; 10 = hoàn toàn đồng ý với bên phải),"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '8.33%', '2': '10.42%', '3': '12.50%', '4': '15.42%', '5': '18.33%', '6': '12.50%', '7': '10.42%', '8': '6.25%', '9': '3.75%', '10': '2.08%'}"
+Q109,Cạnh tranh là tốt hay cạnh tranh là có hại? (1 = hoàn toàn đồng ý cạnh tranh là tốt; 10 = hoàn toàn đồng ý cạnh tranh là có hại),"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '12.25%', '2': '10.33%', '3': '8.42%', '4': '7.50%', '5': '15.25%', '6': '12.17%', '7': '10.08%', '8': '8.00%', '9': '6.50%', '10': '9.50%'}"
+Q110,"Trong dài hạn, làm việc chăm chỉ sẽ mang lại một cuộc sống tốt hơn hay làm việc chăm chỉ nhìn chung sẽ không mang lại thành công (thành công là do may mắn và các mối quan hệ)? (1 = hoàn toàn đồng ý với bên trái; 10 = hoàn toàn đồng ý với bên phải)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.25%', '2': '12.33%', '3': '10.42%', '4': '8.50%', '5': '18.25%', '6': '12.17%', '7': '10.08%', '8': '6.75%', '9': '3.50%', '10': '3.75%'}"
+Q111,Anh/chị đồng ý với nhận định nào về quan hệ giữa môi trường và phát triển kinh tế?,"['Bảo vệ môi trường cần phải được ưu tiên hàng đầu, thậm chí khi việc đó có thể dẫn đến chậm phát triển kinh tế và thiếu hụt việc làm.', 'Phát triển kinh tế và tạo ra nhiều việc làm mới cần phải được ưu tiên hàng đầu, thậm chí khi những việc đó có thể khiến môi trường bị ảnh hưởng phần nào.', 'Đáp án khác (nếu có).']","['1', '2', '3']","1. Bảo vệ môi trường cần phải được ưu tiên hàng đầu, thậm chí khi việc đó có thể dẫn đến chậm phát triển kinh tế và thiếu hụt việc làm.
+2. Phát triển kinh tế và tạo ra nhiều việc làm mới cần phải được ưu tiên hàng đầu, thậm chí khi những việc đó có thể khiến môi trường bị ảnh hưởng phần nào.
+3. Đáp án khác (nếu có).",Opinion-Dependent,"{'1': '45.67%', '2': '48.33%', '3': '6.00%'}"
+Q113,"Theo anh/chị, có bao nhiêu người trong các cơ quan nhà nước liên quan đến tham nhũng?","['Không ai trong số họ', 'Một vài người trong số họ', 'Hầu hết mọi người', 'Tất cả mọi người']","['1', '2', '3', '4']","1. Không ai trong số họ
+2. Một vài người trong số họ
+3. Hầu hết mọi người
+4. Tất cả mọi người",Opinion-Dependent,"{'1': '5.25%', '2': '65.75%', '3': '25.50%', '4': '3.50%'}"
+Q114,"Theo anh/chị, có bao nhiêu doanh nghiệp có liên quan đến tham nhũng?","['Không ai trong số họ', 'Một vài người trong số họ', 'Hầu hết mọi người', 'Tất cả mọi người']","['1', '2', '3', '4']","1. Không ai trong số họ
+2. Một vài người trong số họ
+3. Hầu hết mọi người
+4. Tất cả mọi người",Opinion-Dependent,"{'1': '10.25%', '2': '65.75%', '3': '20.50%', '4': '3.50%'}"
+Q115,"Theo anh/chị, có bao nhiêu cơ quan địa phương có liên quan đến tham nhũng?","['Không ai trong số họ', 'Một vài người trong số họ', 'Hầu hết mọi người', 'Tất cả mọi người']","['1', '2', '3', '4']","1. Không ai trong số họ
+2. Một vài người trong số họ
+3. Hầu hết mọi người
+4. Tất cả mọi người",Opinion-Dependent,"{'1': '10.25%', '2': '65.75%', '3': '20.50%', '4': '3.50%'}"
+Q116,"Theo anh/chị, có bao nhiêu cơ quan dịch vụ dân sự (công an, tòa án, công chức, bác sĩ, giáo viên) có liên quan đến tham nhũng?","['Không ai trong số họ', 'Một vài người trong số họ', 'Hầu hết mọi người', 'Tất cả mọi người']","['1', '2', '3', '4']","1. Không ai trong số họ
+2. Một vài người trong số họ
+3. Hầu hết mọi người
+4. Tất cả mọi người",Opinion-Dependent,"{'1': '10.25%', '2': '65.50%', '3': '20.75%', '4': '3.50%'}"
+Q117,"Theo anh/chị, có bao nhiêu nhà báo và truyền thông có liên quan đến tham nhũng?","['Không ai trong số họ', 'Một vài người trong số họ', 'Hầu hết mọi người', 'Tất cả mọi người']","['1', '2', '3', '4']","1. Không ai trong số họ
+2. Một vài người trong số họ
+3. Hầu hết mọi người
+4. Tất cả mọi người",Opinion-Dependent,"{'1': '10.25%', '2': '65.75%', '3': '20.50%', '4': '3.50%'}"
+Q119,"Anh/chị đồng ý ở mức độ nào với nhận định: ""Nhìn chung, nữ giới ít tham nhũng hơn nam giới""?","['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý', 'Hoàn toàn không đồng ý', 'Khó trả lời']","['1', '2', '3', '4', '0']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý
+4. Hoàn toàn không đồng ý
+0. Khó trả lời",Opinion-Dependent,"{'1': '15.25%', '2': '45.50%', '3': '25.75%', '4': '10.25%', '0': '3.25%'}"
+Q122,"Nhập cư giúp có thêm nguồn nhân lực cho các vị trí khó, quan trọng.","['Đồng ý', 'Khó trả lời', 'Không đồng ý']","['2', '1', '0']","2. Đồng ý
+1. Khó trả lời
+0. Không đồng ý",Opinion-Dependent,"{'2': '55.25%', '1': '20.50%', '0': '24.25%'}"
+Q123,Nhập cư làm tăng thêm sự đa dạng văn hóa.,"['Đồng ý', 'Khó trả lời', 'Không đồng ý']","['2', '1', '0']","2. Đồng ý
+1. Khó trả lời
+0. Không đồng ý",Opinion-Dependent,"{'0': '15.25%', '1': '10.50%', '2': '74.25%'}"
+Q124,Nhập cư làm tăng tỷ lệ tội phạm.,"['Đồng ý', 'Khó trả lời', 'Không đồng ý']","['2', '1', '0']","2. Đồng ý
+1. Khó trả lời
+0. Không đồng ý",Opinion-Dependent,"{'0': '45.25%', '1': '30.50%', '2': '24.25%'}"
+Q125,Nhập cư mang lại một nơi đến an toàn cho những người tị nạn đang bị áp bức ở các nơi khác.,"['Đồng ý', 'Khó trả lời', 'Không đồng ý']","['2', '1', '0']","2. Đồng ý
+1. Khó trả lời
+0. Không đồng ý",Opinion-Dependent,"{'2': '65.75%', '1': '15.25%', '0': '19.00%'}"
+Q126,Nhập cư làm tăng nguy cơ khủng bố.,"['Đồng ý', 'Khó trả lời', 'Không đồng ý']","['2', '1', '0']","2. Đồng ý
+1. Khó trả lời
+0. Không đồng ý",Opinion-Dependent,"{'0': '45.25%', '1': '30.50%', '2': '24.25%'}"
+Q127,Nhập cư giúp những người từ những đất nước nghèo khó có điều kiện sống tốt hơn.,"['Đồng ý', 'Khó trả lời', 'Không đồng ý']","['2', '1', '0']","2. Đồng ý
+1. Khó trả lời
+0. Không đồng ý",Opinion-Dependent,"{'2': '65.75%', '1': '15.25%', '0': '19.00%'}"
+Q128,Nhập cư làm tăng tỷ lệ thất nghiệp.,"['Đồng ý', 'Khó trả lời', 'Không đồng ý']","['2', '1', '0']","2. Đồng ý
+1. Khó trả lời
+0. Không đồng ý",Opinion-Dependent,"{'0': '45.25%', '1': '20.50%', '2': '34.25%'}"
+Q129,Nhập cư dẫn đến xung đột xã hội.,"['Đồng ý', 'Khó trả lời', 'Không đồng ý']","['2', '1', '0']","2. Đồng ý
+1. Khó trả lời
+0. Không đồng ý",Opinion-Dependent,"{'0': '35.25%', '1': '28.50%', '2': '36.25%'}"
+Q131,Anh/chị cảm thấy thế nào về an ninh hiện nay?,"['Rất an toàn', 'Phần nào an toàn', 'Phần nào không an toàn', 'Rất không an toàn']","['1', '2', '3', '4']","1. Rất an toàn
+2. Phần nào an toàn
+3. Phần nào không an toàn
+4. Rất không an toàn",Opinion-Dependent,"{'1': '15.25%', '2': '60.75%', '3': '20.50%', '4': '3.50%'}"
+Q142,Anh/chị lo lắng ở mức độ nào về việc mất việc hoặc không tìm được việc làm?,"['Rất lo lắng', 'Hơi lo lắng', 'Không lo lắng lắm', 'Hoàn toàn không lo lắng', 'Không áp dụng']","['1', '2', '3', '4', '-3']","1. Rất lo lắng
+2. Hơi lo lắng
+3. Không lo lắng lắm
+4. Hoàn toàn không lo lắng
+-3. Không áp dụng",Opinion-Dependent,"{'1': '15.25%', '2': '35.50%', '3': '30.25%', '4': '18.00%', '-3': '1.00%'}"
+Q147,Anh/chị lo lắng ở mức độ nào về tấn công khủng bố?,"['Rất lo lắng', 'Hơi lo lắng', 'Không lo lắng lắm', 'Hoàn toàn không lo lắng']","['1', '2', '3', '4']","1. Rất lo lắng
+2. Hơi lo lắng
+3. Không lo lắng lắm
+4. Hoàn toàn không lo lắng",Opinion-Dependent,"{'1': '15.25%', '2': '35.50%', '3': '40.25%', '4': '9.00%'}"
+Q148,Anh/chị lo lắng ở mức độ nào về nội chiến?,"['Rất lo lắng', 'Hơi lo lắng', 'Không lo lắng lắm', 'Hoàn toàn không lo lắng']","['1', '2', '3', '4']","1. Rất lo lắng
+2. Hơi lo lắng
+3. Không lo lắng lắm
+4. Hoàn toàn không lo lắng",Opinion-Dependent,"{'1': '15.25%', '2': '35.50%', '3': '40.25%', '4': '9.00%'}"
+Q149,"Nếu phải chọn giữa tự do và bình đẳng, anh/chị cho rằng tự do hay bình đẳng quan trọng hơn?","['Tự do', 'Bình đẳng']","['1', '2']","1. Tự do
+2. Bình đẳng",Opinion-Dependent,"{'1': '45.67%', '2': '54.33%'}"
+Q150,"Nếu phải chọn giữa tự do và an toàn, anh/chị cho rằng tự do hay an toàn quan trọng hơn?","['Tự do', 'An toàn']","['1', '2']","1. Tự do
+2. An toàn",Opinion-Dependent,"{'1': '32.42%', '2': '67.58%'}"
+Q158,"Mức độ anh/chị đồng ý: ""Khoa học và công nghệ làm chúng ta mạnh khỏe hơn, cuộc sống dễ dàng và thoải mái hơn"". (1 = hoàn toàn không đồng ý; 10 = hoàn toàn đồng ý)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '1.25%', '2': '1.75%', '3': '2.25%', '4': '3.50%', '5': '8.25%', '6': '12.50%', '7': '18.75%', '8': '22.50%', '9': '15.25%', '10': '14.00%'}"
+Q159,"Mức độ anh/chị đồng ý: ""Nhờ có khoa học công nghệ, thế hệ mới sẽ có nhiều cơ hội hơn"". (1 = hoàn toàn không đồng ý; 10 = hoàn toàn đồng ý)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '1.25%', '2': '1.75%', '3': '2.25%', '4': '3.50%', '5': '8.25%', '6': '12.50%', '7': '18.75%', '8': '22.50%', '9': '15.25%', '10': '14.00%'}"
+Q160,"Mức độ anh/chị đồng ý: ""Chúng ta đang quá lệ thuộc vào khoa học mà không tin vào nhận định của bản thân"". (1 = hoàn toàn không đồng ý; 10 = hoàn toàn đồng ý)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '6.42%', '2': '3.83%', '3': '3.92%', '4': '6.42%', '5': '22.08%', '6': '13.50%', '7': '16.50%', '8': '12.58%', '9': '5.58%', '10': '9.17%'}"
+Q161,"Mức độ anh/chị đồng ý: ""Một trong những mặt trái của khoa học là nó khiến con người khó tự đánh giá đúng sai"". (1 = hoàn toàn không đồng ý; 10 = hoàn toàn đồng ý)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '4.50%', '2': '3.25%', '3': '4.75%', '4': '6.50%', '5': '20.25%', '6': '15.50%', '7': '18.25%', '8': '12.75%', '9': '5.75%', '10': '8.50%'}"
+Q162,"Mức độ anh/chị đồng ý: ""Biết đến khoa học không phải là điều quan trọng trong cuộc sống của tôi"". (1 = hoàn toàn không đồng ý; 10 = hoàn toàn đồng ý)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.42%', '2': '12.83%', '3': '10.92%', '4': '8.42%', '5': '18.08%', '6': '10.50%', '7': '8.50%', '8': '6.58%', '9': '3.58%', '10': '5.17%'}"
+Q163,"Cân nhắc các khía cạnh, khoa học công nghệ làm cho thế giới tốt đẹp hơn hay tệ đi rất nhiều? (1 = thế giới tồi tệ đi rất nhiều; 10 = tốt đẹp hơn rất nhiều)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '2.50%', '2': '3.33%', '3': '4.17%', '4': '5.83%', '5': '10.00%', '6': '12.50%', '7': '18.33%', '8': '20.83%', '9': '12.50%', '10': '10.00%'}"
+Q164,"Những đấng tối cao của tôn giáo (ví dụ: Chúa, Phật, …) quan trọng như thế nào trong cuộc sống của anh/chị? (1 = hoàn toàn không quan trọng; 10 = hoàn toàn quan trọng)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '4.25%', '2': '3.17%', '3': '5.42%', '4': '6.75%', '5': '12.50%', '6': '15.83%', '7': '18.33%', '8': '14.58%', '9': '8.75%', '10': '10.42%'}"
+Q165,"Anh/chị có tin vào những đấng tối cao của tôn giáo (Chúa, Phật, …) không?","['Có', 'Không']","['1', '2']","1. Có
+2. Không",Opinion-Dependent,"{'1': '65.75%', '2': '34.25%'}"
+Q166,Anh/chị có tin vào sự sống sau cái chết không?,"['Có', 'Không']","['1', '2']","1. Có
+2. Không",Opinion-Dependent,"{'1': '45.67%', '2': '54.33%'}"
+Q167,Anh/chị có tin vào địa ngục không?,"['Có', 'Không']","['1', '2']","1. Có
+2. Không",Opinion-Dependent,"{'1': '45.67%', '2': '54.33%'}"
+Q168,Anh/chị có tin vào thiên đường không?,"['Có', 'Không']","['1', '2']","1. Có
+2. Không",Opinion-Dependent,"{'1': '45.67%', '2': '54.33%'}"
+Q169,"Anh/chị đồng ý ở mức độ nào: ""Bất cứ khi nào có mâu thuẫn giữa khoa học và tôn giáo, tôn giáo luôn đúng""?","['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý
+4. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '8.25%', '2': '15.50%', '3': '45.75%', '4': '30.50%'}"
+Q170,"Anh/chị đồng ý ở mức độ nào: ""Tôi chỉ chấp nhận và tin tưởng vào tôn giáo của tôi""?","['Hoàn toàn đồng ý', 'Đồng ý', 'Không đồng ý', 'Hoàn toàn không đồng ý']","['1', '2', '3', '4']","1. Hoàn toàn đồng ý
+2. Đồng ý
+3. Không đồng ý
+4. Hoàn toàn không đồng ý",Opinion-Dependent,"{'1': '15.25%', '2': '45.75%', '3': '30.50%', '4': '8.50%'}"
+Q173,"Dù có tham dự lễ tôn giáo hay không, anh/chị tự thấy mình là…","['Một người theo tôn giáo', 'Một người không theo tôn giáo', 'Một người vô thần']","['1', '2', '3']","1. Một người theo tôn giáo
+2. Một người không theo tôn giáo
+3. Một người vô thần",Opinion-Dependent,"{'1': '45.25%', '2': '38.75%', '3': '16.00%'}"
+Q174,Anh/chị đồng ý với nhận định nào hơn: Điều cơ bản của tôn giáo là…,"['Tuân theo các chuẩn mực và các nghi lễ tôn giáo', 'Làm điều tốt cho người khác']","['1', '2']","1. Tuân theo các chuẩn mực và các nghi lễ tôn giáo
+2. Làm điều tốt cho người khác",Opinion-Dependent,"{'1': '35.67%', '2': '64.33%'}"
+Q175,Anh/chị đồng ý với nhận định nào hơn: Giá trị cơ bản của tôn giáo là…,"['Làm cho cuộc sống sau khi chết (thế giới bên kia, kiếp sau, …) tốt hơn', 'Làm cho cuộc sống hiện tại tốt hơn']","['1', '2']","1. Làm cho cuộc sống sau khi chết (thế giới bên kia, kiếp sau, …) tốt hơn
+2. Làm cho cuộc sống hiện tại tốt hơn",Opinion-Dependent,"{'1': '45.33%', '2': '54.67%'}"
+Q176,"Mức độ anh/chị đồng ý: ""Ngày nay người ta thường gặp khó khăn trong việc quyết định đâu là những quy tắc đạo đức đúng đắn để tuân theo"". (1 = hoàn toàn không đồng ý; 10 = hoàn toàn đồng ý)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '3.25%', '2': '4.17%', '3': '5.42%', '4': '7.50%', '5': '12.08%', '6': '15.83%', '7': '18.33%', '8': '14.58%', '9': '9.17%', '10': '9.67%'}"
+Q177,"Theo anh/chị, yêu cầu những quyền lợi từ chính phủ mà đáng lẽ anh/chị không được hưởng có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.25%', '2': '12.33%', '3': '10.42%', '4': '8.75%', '5': '18.50%', '6': '12.17%', '7': '9.25%', '8': '5.83%', '9': '3.42%', '10': '4.08%'}"
+Q178,"Theo anh/chị, trốn vé khi đi phương tiện công cộng có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '35.42%', '2': '22.83%', '3': '12.92%', '4': '8.42%', '5': '7.08%', '6': '5.50%', '7': '3.50%', '8': '2.58%', '9': '1.58%', '10': '0.17%'}"
+Q179,"Theo anh/chị, trộm cắp tài sản có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '65.25%', '2': '15.42%', '3': '8.33%', '4': '4.17%', '5': '2.50%', '6': '1.67%', '7': '1.25%', '8': '0.83%', '9': '0.42%', '10': '0.17%'}"
+Q180,"Theo anh/chị, gian lận về thuế nếu anh/chị có cơ hội có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '35.25%', '2': '20.42%', '3': '12.33%', '4': '8.25%', '5': '7.50%', '6': '5.75%', '7': '4.25%', '8': '2.50%', '9': '1.75%', '10': '2.00%'}"
+Q181,"Theo anh/chị, ai đó nhận hối lộ trong quá trình thực hiện nhiệm vụ của họ có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '45.25%', '2': '15.75%', '3': '10.25%', '4': '8.25%', '5': '7.25%', '6': '5.25%', '7': '3.25%', '8': '2.25%', '9': '1.25%', '10': '1.25%'}"
+Q182,"Theo anh/chị, đồng tính có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '8.33%', '2': '6.25%', '3': '7.50%', '4': '9.17%', '5': '12.50%', '6': '14.17%', '7': '13.33%', '8': '10.83%', '9': '7.08%', '10': '10.83%'}"
+Q183,"Theo anh/chị, gái mại dâm có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '35.42%', '2': '15.83%', '3': '10.42%', '4': '8.33%', '5': '12.50%', '6': '5.83%', '7': '4.17%', '8': '3.33%', '9': '2.08%', '10': '2.08%'}"
+Q184,"Theo anh/chị, phá thai có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.25%', '2': '10.33%', '3': '8.42%', '4': '7.58%', '5': '12.50%', '6': '10.25%', '7': '9.17%', '8': '6.75%', '9': '5.42%', '10': '14.33%'}"
+Q185,"Theo anh/chị, ly hôn có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '2.50%', '2': '3.75%', '3': '5.00%', '4': '7.50%', '5': '15.00%', '6': '17.50%', '7': '20.00%', '8': '12.50%', '9': '8.75%', '10': '7.50%'}"
+Q186,"Theo anh/chị, quan hệ tình dục trước khi kết hôn có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.25%', '2': '10.33%', '3': '8.42%', '4': '7.58%', '5': '12.50%', '6': '10.75%', '7': '9.83%', '8': '7.25%', '9': '5.42%', '10': '12.67%'}"
+Q187,"Theo anh/chị, tự tử có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '45.25%', '2': '15.75%', '3': '10.25%', '4': '8.25%', '5': '7.25%', '6': '5.25%', '7': '3.25%', '8': '2.25%', '9': '1.25%', '10': '1.25%'}"
+Q188,"Theo anh/chị, giết nhân đạo bệnh nhân nan y để không gây đau đớn có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.25%', '2': '10.33%', '3': '8.42%', '4': '7.58%', '5': '12.50%', '6': '10.25%', '7': '9.75%', '8': '7.25%', '9': '5.75%', '10': '12.92%'}"
+Q189,"Theo anh/chị, bố mẹ đánh con cái có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.25%', '2': '12.33%', '3': '10.42%', '4': '8.50%', '5': '12.17%', '6': '10.08%', '7': '8.25%', '8': '6.33%', '9': '5.42%', '10': '11.25%'}"
+Q190,"Theo anh/chị, bạo lực với người khác có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '35.25%', '2': '20.42%', '3': '15.08%', '4': '10.17%', '5': '7.50%', '6': '5.25%', '7': '3.33%', '8': '1.67%', '9': '0.83%', '10': '0.50%'}"
+Q191,"Theo anh/chị, khủng bố mang ý nghĩa chính trị, tư tưởng hoặc tôn giáo có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '45.25%', '2': '20.33%', '3': '12.17%', '4': '8.42%', '5': '5.25%', '6': '3.58%', '7': '2.17%', '8': '1.25%', '9': '0.83%', '10': '0.75%'}"
+Q192,"Theo anh/chị, quan hệ tình dục không có ràng buộc có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.25%', '2': '12.33%', '3': '10.42%', '4': '8.75%', '5': '12.50%', '6': '10.08%', '7': '8.25%', '8': '6.42%', '9': '5.17%', '10': '10.83%'}"
+Q193,"Theo anh/chị, bạo lực chính trị (ví dụ: biểu tình rồi bị đàn áp) có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '35.25%', '2': '20.42%', '3': '15.08%', '4': '10.17%', '5': '8.33%', '6': '4.58%', '7': '3.25%', '8': '1.67%', '9': '0.83%', '10': '0.42%'}"
+Q194,"Theo anh/chị, bạo lực chính trị có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '35.42%', '2': '22.83%', '3': '15.92%', '4': '10.42%', '5': '6.08%', '6': '4.58%', '7': '2.50%', '8': '1.25%', '9': '0.50%', '10': '0.50%'}"
+Q195,"Theo anh/chị, tử hình có thể được biện minh ở mức độ nào? (1 = không bao giờ biện minh; 10 = luôn luôn biện minh)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '8.33%', '2': '7.25%', '3': '6.17%', '4': '10.42%', '5': '15.83%', '6': '12.50%', '7': '14.58%', '8': '10.42%', '9': '6.25%', '10': '8.25%'}"
+Q199,Anh/chị quan tâm như thế nào tới chính trị?,"['Rất quan tâm', 'Phần nào quan tâm', 'Phần nào không quan tâm', 'Hoàn toàn không quan tâm']","['1', '2', '3', '4']","1. Rất quan tâm
+2. Phần nào quan tâm
+3. Phần nào không quan tâm
+4. Hoàn toàn không quan tâm",Opinion-Dependent,"{'1': '15.25%', '2': '45.75%', '3': '30.50%', '4': '8.50%'}"
+Q234,Việc có những cuộc bầu cử thành thực quan trọng với anh/chị như thế nào?,"['Rất quan trọng', 'Khá quan trọng', 'Không quan trọng lắm', 'Hoàn toàn không quan trọng']","['1', '2', '3', '4']","1. Rất quan trọng
+2. Khá quan trọng
+3. Không quan trọng lắm
+4. Hoàn toàn không quan trọng",Opinion-Dependent,"{'1': '45.25%', '2': '42.33%', '3': '10.42%', '4': '2.00%'}"
+Q241,"Theo anh/chị, ""Chính phủ đánh thuế người giàu và trợ cấp cho người nghèo"" là đặc trưng của dân chủ ở mức độ nào? (1 = không phải đặc trưng thiết yếu; 10 = đặc trưng thiết yếu)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '3.25%', '2': '4.17%', '3': '5.42%', '4': '6.75%', '5': '12.50%', '6': '15.83%', '7': '18.33%', '8': '14.58%', '9': '9.17%', '10': '10.00%'}"
+Q242,"Theo anh/chị, ""Các nhà lãnh đạo tôn giáo cuối cùng diễn giải pháp luật"" là đặc trưng của dân chủ ở mức độ nào? (1 = không thiết yếu; 10 = thiết yếu)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '12.25%', '2': '8.33%', '3': '10.42%', '4': '12.50%', '5': '15.83%', '6': '14.17%', '7': '10.83%', '8': '6.67%', '9': '4.58%', '10': '4.42%'}"
+Q243,"Theo anh/chị, ""Người dân lựa chọn lãnh đạo của họ trong các cuộc bầu cử tự do"" là đặc trưng của dân chủ ở mức độ nào? (1 = không thiết yếu; 10 = thiết yếu)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '1.25%', '2': '1.75%', '3': '2.25%', '4': '3.50%', '5': '5.75%', '6': '8.25%', '7': '12.50%', '8': '18.75%', '9': '20.25%', '10': '25.75%'}"
+Q244,"Theo anh/chị, ""Người dân nhận trợ cấp thất nghiệp từ nhà nước"" là đặc trưng của dân chủ ở mức độ nào? (1 = không thiết yếu; 10 = thiết yếu)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '3.25%', '2': '4.17%', '3': '5.42%', '4': '6.75%', '5': '12.50%', '6': '15.83%', '7': '18.33%', '8': '14.58%', '9': '8.33%', '10': '10.83%'}"
+Q245,"Theo anh/chị, ""Quân đội tiếp quản khi chính phủ bất lực"" là đặc trưng của dân chủ ở mức độ nào? (1 = không thiết yếu; 10 = thiết yếu)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.25%', '2': '12.33%', '3': '10.42%', '4': '8.75%', '5': '12.50%', '6': '10.25%', '7': '8.33%', '8': '6.42%', '9': '5.25%', '10': '10.50%'}"
+Q246,"Theo anh/chị, ""Các quyền dân sự bảo vệ người dân khỏi sự áp bức của nhà nước"" là đặc trưng của dân chủ ở mức độ nào? (1 = không thiết yếu; 10 = thiết yếu)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '1.25%', '2': '1.75%', '3': '2.25%', '4': '3.50%', '5': '5.75%', '6': '8.25%', '7': '12.50%', '8': '18.75%', '9': '20.25%', '10': '25.75%'}"
+Q247,"Theo anh/chị, ""Nhà nước làm cho thu nhập của mọi người trở nên bình đẳng"" là đặc trưng của dân chủ ở mức độ nào? (1 = không thiết yếu; 10 = thiết yếu)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '8.33%', '2': '7.50%', '3': '10.42%', '4': '12.50%', '5': '15.83%', '6': '14.17%', '7': '12.08%', '8': '8.75%', '9': '5.42%', '10': '5.00%'}"
+Q248,"Theo anh/chị, ""Người dân phải vâng lời người cầm quyền"" là đặc trưng của dân chủ ở mức độ nào? (1 = không thiết yếu; 10 = thiết yếu)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.25%', '2': '12.33%', '3': '10.42%', '4': '8.50%', '5': '12.17%', '6': '10.08%', '7': '8.25%', '8': '6.33%', '9': '5.42%', '10': '11.25%'}"
+Q249,"Theo anh/chị, ""Phụ nữ có cùng quyền như nam giới"" là đặc trưng của dân chủ ở mức độ nào? (1 = không thiết yếu; 10 = thiết yếu)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '1.25%', '2': '1.75%', '3': '2.25%', '4': '3.50%', '5': '5.75%', '6': '8.25%', '7': '12.50%', '8': '18.75%', '9': '20.25%', '10': '25.75%'}"
+Q250,Việc sống tại một đất nước được quản trị dân chủ quan trọng với anh/chị đến mức nào? (1 = hoàn toàn không quan trọng; 10 = hoàn toàn quan trọng),"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '2.50%', '2': '3.33%', '3': '4.17%', '4': '5.83%', '5': '10.00%', '6': '12.50%', '7': '15.83%', '8': '18.33%', '9': '12.50%', '10': '15.00%'}"
+Q259,"Anh/chị cảm thấy mức độ gần gũi, thân thiết với thế giới như thế nào?","['Rất gần gũi thân thiết', 'Gần gũi thân thiết', 'Không gần gũi thân thiết lắm', 'Hoàn toàn không gần gũi thân thiết']","['1', '2', '3', '4']","1. Rất gần gũi thân thiết
+2. Gần gũi thân thiết
+3. Không gần gũi thân thiết lắm
+4. Hoàn toàn không gần gũi thân thiết",Opinion-Dependent,"{'1': '15.25%', '2': '45.75%', '3': '30.50%', '4': '8.50%'}"

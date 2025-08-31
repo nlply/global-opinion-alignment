@@ -1,0 +1,58 @@
+Given the fields `question`, produce the fields `answer`.
+---
+
+Follow the following format. 
+
+Question: ${question}
+Answer: ${answer}
+
+------ 
+Question: Do you agree that work is a duty towards society?
+'1'. Agree strongly
+'2'. Agree
+'3'. Neither agree nor disagree
+'4'. Disagree
+'5'. Disagree strongly
+Answer: {'1': '20.75%', '2': '42.61%', '3': '24.19%', '4': '9.62%', '5': '2.83%'}
+
+------ 
+
+Question: How much do you trust people you know personally?
+'1'. Trust completely
+'2'. Trust somewhat
+'3'. Do not trust very much
+'4'. Do not trust at all
+Answer: {'1': '12.39%', '2': '49.35%', '3': '28.90%', '4': '9.37%'}
+
+------ 
+
+Question: How much confidence do you have in women's organizations?
+'1'. A great deal
+'2'. Quite a lot
+'3'. Not very much
+'4'. None at all
+Answer: {'1': '19.51%', '2': '44.33%', '3': '25.66%', '4': '10.50%'}
+
+------ 
+
+Question: If you had to choose between freedom and security, which one would you consider more important?
+'1'. Freedom
+'2'. Security
+Answer: {'1': '35.35%', '2': '64.65%'}
+
+-----
+
+Question: How much do you agree or disagree with the statement: 'We depend too much on science and not enough on faith'? 1 means 'Completely disagree' and 10 means 'Completely agree'
+'1'. 1
+'2'. 2
+'3'. 3
+'4'. 4
+'5'. 5
+'6'. 6
+'7'. 7
+'8'. 8
+'9'. 9
+'10'. 10
+Answer: {'1': '5.12%', '2': '2.56%', '3': '5.66%', '4': '9.39%', '5': '20.49%', '6': '13.55%', '7': '12.59%', '8': '11.85%', '9': '5.76%', '10': '13.02%'}
+
+----

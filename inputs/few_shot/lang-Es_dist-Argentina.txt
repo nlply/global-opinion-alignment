@@ -1,0 +1,58 @@
+Dados los campos `question`, genere los campos `answer`.
+---
+
+Siga el siguiente formato.
+
+Pregunta: ${question}
+Respuesta: ${answer}
+
+------ 
+Pregunta: ¿Estás de acuerdo en que el trabajo es un deber hacia la sociedad?
+'1'. Totalmente de acuerdo
+'2'. De acuerdo
+'3'. Ni de acuerdo ni en desacuerdo
+'4'. En desacuerdo
+'5'. Totalmente en desacuerdo
+Respuesta: {'1': '0.00%', '2': '56.57%', '3': '24.77%', '4': '18.65%', 5: '0.00%'}
+
+------ 
+
+Pregunta: ¿Cuánto confías en las personas que conoces personalmente?
+'1'. Confío plenamente
+'2'. Confío en cierta medida
+'3'. No confío mucho
+'4'. No confío en absoluto
+Respuesta: {'1': '29.41%', '2': '51.26%', '3': '14.90%', '4': '4.43%'}
+
+------ 
+
+Pregunta: ¿Cuánta confianza tiene en las organizaciones de mujeres?
+'1'. Mucho
+'2'. Bastante
+'3'. No mucho
+'4'. Nada en absoluto
+Respuesta: {'1': '11.70%', '2': '36.88%', '3': '33.22%', '4': '18.20%'}
+
+------ 
+
+Pregunta: Si tuvieras que elegir entre libertad y seguridad, ¿cuál considerarías más importante?
+'1'. Libertad
+'2'. Seguridad
+Respuesta: {'1': '36.47%', '2': '63.53%'}
+
+-----
+
+Pregunta: ¿En qué medida está de acuerdo o en desacuerdo con la afirmación: «Dependemos demasiado de la ciencia y no lo suficiente de la fe»? 1 significa «Totalmente en desacuerdo» y 10 significa «Totalmente de acuerdo».
+'1'. 1
+'2'. 2
+'3'. 3
+'4'. 4
+'5'. 5
+'6'. 6
+'7'. 7
+'8'. 8
+'9'. 9
+'10'. 10
+Respuesta: {'1': '5.91%', '2': '2.90%', '3': '5.91%', '4': '6.85%', '5': '14.63%', '6': '11.62%', '7': '10.79%', '8': '13.38%', '9': '13.28%', '10': '14.73%'}
+
+----

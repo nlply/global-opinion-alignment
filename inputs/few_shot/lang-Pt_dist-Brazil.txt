@@ -1,0 +1,58 @@
+Dados os campos `question`, produza os campos `answer`.
+---
+
+Siga o seguinte formato.
+
+Pergunta: ${question}
+Resposta: ${answer}
+
+------ 
+Pergunta: Trabalhar é uma obrigação para com a sociedade?
+'1'. Concordo plenamente
+'2'. Concordo
+'3'. Nem concorda nem discorda
+'4'. Discordo
+'5'. Discordo plenamente
+Resposta: {'1': '0.00%', '2': '61.76%', '3': '14.95%', '4': '23.29%', '5': '0.00%'}
+
+------ 
+
+Pergunta: Quanta confiança o(a) Sr.(a) tem em pessoas que conhece pessoalmente?
+'1'. Confia totalmente
+'2'. Confia em parte
+'3'. Confia pouco
+'4'. Não confia
+Resposta: {'1': '11.84%', '2': '49.25%', '3': '27.87%', '4': '11.03%'}
+
+------ 
+
+Pergunta: Quanta confiança o(a) Sr.(a) tem nas organizações de mulheres?
+'1'. Confia totalmente
+'2'. Confia em parte
+'3'. Confia pouco
+'4'. Não confia
+Resposta: {'1': '19.67%', '2': '47.81%', '3': '20.00%', '4': '12.52%'}
+
+------ 
+
+Pergunta: Se tivesse que escolher, o que é mais importante para você: liberdade ou segurança?
+'1'. Liberdade
+'2'. Segurança
+Resposta: {'1': '24.88%', '2': '75.12%'}
+
+-----
+
+Pergunta: Em que medida você concorda que dependemos muito da ciência e não tanto da fé, onde 1 significa \"discorda totalmente\" e 10 \"concorda totalmente\"?
+'1'. 1
+'2'. 2
+'3'. 3
+'4'. 4
+'5'. 5
+'6'. 6
+'7'. 7
+'8'. 8
+'9'. 9
+'10'. 10
+Resposta: {'1': '38.68%', '2': '3.41%', '3': '4.47%', '4': '4.47%', '5': '18.93%', '6': '5.06%', '7': '5.23%', '8': '5.17%', '9': '2.35%', '10': '12.23%'}
+
+----

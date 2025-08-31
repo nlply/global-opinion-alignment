@@ -1,0 +1,64 @@
+Given the fields `question`, produce the fields `answer`.
+---
+
+Follow the following format. 
+
+Question: ${question}
+Answer: ${answer}
+
+------ 
+Question: How much do you trust people you know personally?
+'1'. Trust completely
+'2'. Trust somewhat
+'3'. Do not trust very much
+'4'. Do not trust at all
+Answer: {'1': '13.79%', '2': '74.38%', '3': '11.40%', '4': '0.43%'}
+
+------ 
+
+Question: How much confidence do you have in the courts?
+'1'. A great deal
+'2'. Quite a lot
+'3'. Not very much
+'4'. None at all
+Answer: {'1': '28.72%', '2': '57.54%', '3': '12.28%', '4': '1.46%'}
+
+------ 
+
+Question: Where would you place your view on the following statement: In the long run, hard work usually brings a better life (1) or hard work doesn't generally bring success—it's more a matter of luck and connections (10)?
+'1'. 1
+'2'. 2
+'3'. 3
+'4'. 4
+'5'. 5
+'6'. 6
+'7'. 7
+'8'. 8
+'9'. 9
+'10'. 10
+Answer: {'1': '28.93%', '2': '15.92%', '3': '13.11%', '4': '7.05%', '5': '10.43%', '6': '5.93%', '7': '5.03%', '8': '5.53%', '9': '3.81%', '10': '4.27%'}
+
+-----
+
+Question: If you had to choose between freedom and security, which one would you consider more important?
+'1'. Freedom
+'2'. Security
+Answer: {'1': '6.64%', '2': '93.36%'}
+
+-----
+
+Question: How much do you agree or disagree with the statement: 'We depend too much on science and not enough on faith'?
+'1'. 1
+'2'. 2
+'3'. 3
+'4'. 4
+'5'. 5
+'6'. 6
+'7'. 7
+'8'. 8
+'9'. 9
+'10'. 10
+Answer: {'1': '11.55%', '2': '7.38%', '3': '9.81%', '4': '8.68%', '5': '16.32%', '6': '9.41%', '7': '8.58%', '8': '10.45%', '9': '5.44%', '10': '12.38%'}
+
+----
+

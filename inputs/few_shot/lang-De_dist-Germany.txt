@@ -1,0 +1,58 @@
+Ausgehend von den Feldern `question` erstellen Sie die Felder `answer`.
+---
+
+Befolgen Sie das folgende Format. 
+
+Frage: ${question}
+Antwort: ${answer}
+
+------ 
+Frage: Arbeit ist eine Verpflichtung gegenüber der Gesellschaft.
+'1'. Stimme voll und ganz zu
+'2'. Stimme zu
+'3'. Weder noch
+'4'. Stimme nicht zu
+'5'. Stimme überhaupt nicht zu
+Antwort: {'1': '18.28%', '2': '56.49%', '3': '10.13%', '4': '12.52%', '5': '2.58%'}
+
+------ 
+
+Frage: Wie viel Vertrauen haben Sie in Frauenorganisationen?
+'1'. Sehr viel Vertrauen
+'2'. Ziemlich viel Vertrauen
+'3'. Wenig Vertrauen
+'4'. Überhaupt kein Vertrauen
+Antwort: {'1': '9.99%', '2': '61.30%', '3': '25.54%', '4': '3.17%'}
+
+------ 
+
+Frage: Für die meisten Menschen sind Freiheit und Sicherheit wichtig. Wenn Sie wählen müssten, welches von beiden wäre für Sie wichtiger?
+'1'. Freiheit
+'2'. Sicherheit
+Antwort: {'1': '44.72%', '2': '55.28%'}
+
+------ 
+
+Frage: Inwieweit stimmen Sie der Aussage zu, dass wir zu stark auf die Wissenschaft und nicht genug auf den Glauben vertrauen? Bitte verwenden Sie eine Skala von 1 bis 10, wobei 1 'lehne ich völlig ab' und 10 'ich stimme völlig zu' bedeutet.
+'1'. 1
+'2'. 2
+'3'. 3
+'4'. 4
+'5'. 5
+'6'. 6
+'7'. 7
+'8'. 8
+'9'. 9
+'10'. 10
+Antwort: {'1': '24.12%', '2': '11.55%', '3': '11.15%', '4': '6.69%', '5': '16.69%', '6': '7.16%', '7': '6.89%', '8': '7.77%', '9': '3.24%', '10': '4.73%'}
+
+-----
+
+Frage: Stimmen Sie folgender Aussage zu: 'Die einzige akzeptable Religion ist meine Religion'?
+'1'. Stimme voll und ganz zu
+'2'. Stimme zu
+'3'. Stimme nicht zu
+'4'. Stimme überhaupt nicht zu
+Antwort: {'1': '3.99%', '2': '6.74%', '3': '29.85%', '4': '59.42%'}
+
+----

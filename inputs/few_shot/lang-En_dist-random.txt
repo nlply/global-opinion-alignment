@@ -1,0 +1,66 @@
+Given the fields `question`, produce the fields `answer`.
+---
+
+Follow the following format. 
+
+Question: ${question}
+Answer: ${answer}
+
+------ 
+Question: How much do you trust people you know personally?
+'1'. Trust completely
+'2'. Trust somewhat
+'3'. Do not trust very much
+'4'. Do not trust at all
+Answer: {'1': '31.01%', '2': '3.21%', '3': '30.31%', '4': '35.47%'}
+
+------ 
+
+Question: How much confidence do you have in the courts?
+'1'. A great deal
+'2'. Quite a lot
+'3'. Not very much
+'4'. None at all
+Answer: {'1': '27.19%', '2': '33.58%', '3': '22.06%', '4': '17.17%'}
+
+------ 
+
+Question: What do you think international organizations should prioritize: being effective or being democratic? (If your views are somewhat mixed, choose the appropriate number in between.)
+'1'. 1
+'2'. 2
+'3'. 3
+'4'. 4
+'5'. 5
+'6'. 6
+'7'. 7
+'8'. 8
+'9'. 9
+'10'. 10
+Answer: {'1': '14.27%', '2': '2.47%', '3': '19.03%', '4': '3.51%', '5': '4.66%', '6': '16.12%', '7': '13.29%', '8': '3.26%', '9': '8.19%', '10': '15.20%'}
+
+------ 
+
+Question: Where would you place your view on the following statement: In the long run, hard work usually brings a better life (1) or hard work doesn't generally bring success—it's more a matter of luck and connections (10)?
+'1'. 1
+'2'. 2
+'3'. 3
+'4'. 4
+'5'. 5
+'6'. 6
+'7'. 7
+'8'. 8
+'9'. 9
+'10'. 10
+Answer: {'1': '1.18%', '2': '4.91%', '3': '8.26%', '4': '18.59%', '5': '11.63%', '6': '15.48%', '7': '10.53%', '8': '8.29%', '9': '8.57%', '10': '12.56%'}
+
+-----
+
+Question: What do you think the government should do about people from other countries coming here to work?
+'1'. Let anyone come who wants to
+'2'. Let people come as long as there are jobs available
+'3'. Place strict limits on the number of foreigners who can come here
+'4'. Prohibit people coming here from other countries
+Answer: {'1': '22.84%', '2': '44.51%', '3': '14.63%', '4': '18.02%'}
+
+----
+

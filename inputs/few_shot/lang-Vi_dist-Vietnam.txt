@@ -1,0 +1,58 @@
+Dựa trên các trường `question`, tạo ra các trường `answer`.
+---
+
+Tuân thủ theo định dạng sau đây.
+
+Câu hỏi: ${question}
+Đáp án: ${answer}
+
+------ 
+Câu hỏi: Làm việc là trách nhiệm đối với xã hội.
+'1'. Hoàn toàn đồng ý
+'2'. Đồng ý
+'3'. Không đồng ý cũng không phản đối
+'4'. Không đồng ý
+'5'. Hoàn toàn không đồng ý
+Đáp án: {'1': '21.25%', '2': '66.58%', '3': '6.67%', '4': '5.25%', '5': '0.25%'}
+
+------ 
+
+Câu hỏi: Mức độ anh/chị tin tưởng những người mà anh/chị biết là bao nhiêu?
+'1'. Hoàn toàn tin tưởng
+'2'. Phần nào tin tưởng
+'3'. Phần nào không tin
+'4'. Hoàn toàn không tin
+Đáp án: {'1': '5.92%', '2': '76.92%', '3': '15.08%', '4': '2.08%'}
+
+------ 
+
+Câu hỏi: Mức độ tin tưởng của anh/chị đối với Hiệp hội các quốc gia Đông Nam Á (ASEAN) như thế nào?
+'1'. Hoàn toàn tin tưởng
+'2'. Phần nào tin tưởng
+'3'. Phần nào không tin tưởng
+'4'. Hoàn toàn không tin tưởng
+Đáp án: {'1': '24.74%', '2': '66.75%', '3': '7.65%', '4': '0.85%'}
+
+------ 
+
+Câu hỏi: Nếu phải chọn giữa tự do và an toàn, anh/chị cho rằng tự do hay an toàn quan trọng hơn?
+'1'. Tự do
+'2'. An toàn
+Đáp án: {'1': '32.42%', '2': '67.58%'}
+
+-----
+
+Câu hỏi: Mức độ anh/chị đồng ý: \"Chúng ta đang quá lệ thuộc vào khoa học mà không tin vào nhận định của bản thân\". (1 = hoàn toàn không đồng ý; 10 = hoàn toàn đồng ý)
+'1'. 1
+'2'. 2
+'3'. 3
+'4'. 4
+'5'. 5
+'6'. 6
+'7'. 7
+'8'. 8
+'9'. 9
+'10'. 10
+Đáp án: {'1': '5.42%', '2': '2.83%', '3': '2.92%', '4': '5.42%', '5': '23.08%', '6': '12.50%', '7': '17.50%', '8': '13.58%', '9': '4.58%', '10': '12.17%'}
+
+----

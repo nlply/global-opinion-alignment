@@ -1,0 +1,947 @@
+id,question,choices,choice_keys,answer,type,response
+Q1,How important is family in your life?,"['Very important', 'Rather important', 'Not very important', 'Not at all important']","['1', '2', '3', '4']","1. Very important
+2. Rather important
+3. Not very important
+4. Not at all important",Opinion-Dependent,"{'1': '43.2%', '2': '37.6%', '3': '12.4%', '4': '6.8%'}"
+Q2,How important are friends in your life?,"['Very important', 'Rather important', 'Not very important', 'Not at all important']","['1', '2', '3', '4']","1. Very important
+2. Rather important
+3. Not very important
+4. Not at all important",Opinion-Dependent,"{'1': '23.45%', '2': '46.78%', '3': '15.32%', '4': '14.45%'}"
+Q3,How important is leisure time in your life?,"['Very important', 'Rather important', 'Not very important', 'Not at all important']","['1', '2', '3', '4']","1. Very important
+2. Rather important
+3. Not very important
+4. Not at all important",Opinion-Dependent,"{'1': '23.69%', '2': '46.15%', '3': '21.29%', '4': '7.87%'}"
+Q4,How important is politics in your life?,"['Very important', 'Rather important', 'Not very important', 'Not at all important']","['1', '2', '3', '4']","1. Very important
+2. Rather important
+3. Not very important
+4. Not at all important",Opinion-Dependent,"{'1': '15.43%', '2': '27.38%', '3': '31.91%', '4': '25.28%'}"
+Q5,How important is work in your life?,"['Very important', 'Rather important', 'Not very important', 'Not at all important']","['1', '2', '3', '4']","1. Very important
+2. Rather important
+3. Not very important
+4. Not at all important",Opinion-Dependent,"{'1': '23.45%', '2': '46.78%', '3': '21.27%', '4': '7.5%'}"
+Q6,How important is religion in your life?,"['Very important', 'Rather important', 'Not very important', 'Not at all important']","['1', '2', '3', '4']","1. Very important
+2. Rather important
+3. Not very important
+4. Not at all important",Opinion-Dependent,"{'1': '15.43%', '2': '27.89%', '3': '31.93%', '4': '24.75%'}"
+Q18,Would you mention 'Drug addicts' as a group you would not like to have as neighbors?,"['Mentioned', 'Not mentioned']","['1', '2']","1. Mentioned
+2. Not mentioned",Opinion-Dependent,"{'1': '76.5%', '2': '23.5%'}"
+Q19,Would you mention People of a different race as people you would not like to have as neighbors?,"['Mentioned', 'Not mentioned']","['1', '2']","1. Mentioned
+2. Not mentioned",Opinion-Dependent,"{'1': '10%', '2': '90%'}"
+Q20,Would you mention People who have AIDS as people you would not like to have as neighbors?,"['Mentioned', 'Not mentioned']","['1', '2']","1. Mentioned
+2. Not mentioned",Opinion-Dependent,"{'1': '23.45%', '2': '76.55%'}"
+Q21,Would you mention Immigrants/foreign workers as people you would not like to have as neighbors?,"['Mentioned', 'Not mentioned']","['1', '2']","1. Mentioned
+2. Not mentioned",Opinion-Dependent,"{'1': '23.45%', '2': '76.55%'}"
+Q22,Would you mention Homosexuals as people you would not like to have as neighbors?,"['Mentioned', 'Not mentioned']","['1', '2']","1. Mentioned
+2. Not mentioned",Opinion-Dependent,"{'1': '23.45%', '2': '76.55%'}"
+Q23,Would you mention People of a different religion as people you would not like to have as neighbors?,"['Mentioned', 'Not mentioned']","['1', '2']","1. Mentioned
+2. Not mentioned",Opinion-Dependent,"{'1': '23.45%', '2': '76.55%'}"
+Q24,Would you mention Heavy drinkers as people you would not like to have as neighbors?,"['Mentioned', 'Not mentioned']","['1', '2']","1. Mentioned
+2. Not mentioned",Opinion-Dependent,"{'1': '76.5%', '2': '23.5%'}"
+Q25,Would you mention Unmarried couples living together as people you would not like to have as neighbors?,"['Mentioned', 'Not mentioned']","['1', '2']","1. Mentioned
+2. Not mentioned",Opinion-Dependent,"{'1': '70.2%', '2': '29.8%'}"
+Q26,Would you mention People who speak a different language as people you would not like to have as neighbors?,"['Mentioned', 'Not mentioned']","['1', '2']","1. Mentioned
+2. Not mentioned",Opinion-Dependent,"{'1': '23.45%', '2': '76.55%'}"
+Q27,Do you agree that one of your main goals in life has been to make your parents proud?,"['Strongly agree', 'Agree', 'Disagree', 'Strongly disagree']","['1', '2', '3', '4']","1. Strongly agree
+2. Agree
+3. Disagree
+4. Strongly disagree",Opinion-Dependent,"{'1': '23.45%', '2': '46.78%', '3': '15.21%', '4': '14.56%'}"
+Q28,"Do you agree that when a mother works for pay, the children suffer?","['Strongly agree', 'Agree', 'Disagree', 'Strongly disagree']","['1', '2', '3', '4']","1. Strongly agree
+2. Agree
+3. Disagree
+4. Strongly disagree",Opinion-Dependent,"{'1': '10.2%', '2': '15.7%', '3': '37.9%', '4': '36.2%'}"
+Q29,"Do you agree that, on the whole, men make better political leaders than women do?","['Strongly agree', 'Agree', 'Disagree', 'Strongly disagree']","['1', '2', '3', '4']","1. Strongly agree
+2. Agree
+3. Disagree
+4. Strongly disagree",Opinion-Dependent,"{'1': '1.45%', '2': '3.79%', '3': '17.59%', '4': '77.17%'}"
+Q30,Do you agree that a university education is more important for a boy than for a girl?,"['Strongly agree', 'Agree', 'Disagree', 'Strongly disagree']","['1', '2', '3', '4']","1. Strongly agree
+2. Agree
+3. Disagree
+4. Strongly disagree",Opinion-Dependent,"{'1': '1.45%', '2': '4.32%', '3': '27.89%', '4': '66.34%'}"
+Q31,"Do you agree that, on the whole, men make better business executives than women do?","['Strongly agree', 'Agree', 'Disagree', 'Strongly disagree']","['1', '2', '3', '4']","1. Strongly agree
+2. Agree
+3. Disagree
+4. Strongly disagree",Opinion-Dependent,"{'1': '0%', '2': '10%', '3': '40%', '4': '50%'}"
+Q32,Do you agree that being a housewife is just as fulfilling as working for pay?,"['Strongly agree', 'Agree', 'Disagree', 'Strongly disagree']","['1', '2', '3', '4']","1. Strongly agree
+2. Agree
+3. Disagree
+4. Strongly disagree",Opinion-Dependent,"{'1': '1.2%', '2': '5.6%', '3': '27.9%', '4': '65.3%'}"
+Q33,"Do you agree that when jobs are scarce, men should have more right to a job than women?","['Agree strongly', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Disagree strongly']","['1', '2', '3', '4', '5']","1. Agree strongly
+2. Agree
+3. Neither agree nor disagree
+4. Disagree
+5. Disagree strongly",Opinion-Dependent,"{'1': '1.45%', '2': '4.32%', '3': '12.67%', '4': '34.56%', '5': '46.58%'}"
+Q34,"Do you agree that when jobs are scarce, employers should give priority to people of this country over immigrants?","['Agree strongly', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Disagree strongly']","['1', '2', '3', '4', '5']","1. Agree strongly
+2. Agree
+3. Neither agree nor disagree
+4. Disagree
+5. Disagree strongly",Opinion-Dependent,"{'1': '23.45%', '2': '36.78%', '3': '12.12%', '4': '15.21%', '5': '12.04%'}"
+Q35,"Do you agree that if a woman earns more money than her husband, it's almost certain to cause problems?","['Agree strongly', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Disagree strongly']","['1', '2', '3', '4', '5']","1. Agree strongly
+2. Agree
+3. Neither agree nor disagree
+4. Disagree
+5. Disagree strongly",Opinion-Dependent,"{'1': '10.2%', '2': '15.7%', '3': '27.3%', '4': '24.5%', '5': '22.3%'}"
+Q36,Do you agree that homosexual couples are as good parents as other couples?,"['Agree strongly', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Disagree strongly']","['1', '2', '3', '4', '5']","1. Agree strongly
+2. Agree
+3. Neither agree nor disagree
+4. Disagree
+5. Disagree strongly",Opinion-Dependent,"{'1': '23.45%', '2': '36.78%', '3': '21.21%', '4': '10.14%', '5': '8.42%'}"
+Q37,Do you agree that it is a duty towards society to have children?,"['Agree strongly', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Disagree strongly']","['1', '2', '3', '4', '5']","1. Agree strongly
+2. Agree
+3. Neither agree nor disagree
+4. Disagree
+5. Disagree strongly",Opinion-Dependent,"{'1': '10%', '2': '20%', '3': '30%', '4': '25%', '5': '15%'}"
+Q38,Do you agree that adult children have the duty to provide long-term care for their parents?,"['Agree strongly', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Disagree strongly']","['1', '2', '3', '4', '5']","1. Agree strongly
+2. Agree
+3. Neither agree nor disagree
+4. Disagree
+5. Disagree strongly",Opinion-Dependent,"{'1': '23.45%', '2': '36.78%', '3': '22.12%', '4': '11.87%', '5': '6.78%'}"
+Q39,Do you agree that people who don’t work turn lazy?,"['Agree strongly', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Disagree strongly']","['1', '2', '3', '4', '5']","1. Agree strongly
+2. Agree
+3. Neither agree nor disagree
+4. Disagree
+5. Disagree strongly",Opinion-Dependent,"{'1': '23.45%', '2': '36.78%', '3': '21.21%', '4': '14.62%', '5': '4.34%'}"
+Q40,Do you agree that work is a duty towards society?,"['Agree strongly', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Disagree strongly']","['1', '2', '3', '4', '5']","1. Agree strongly
+2. Agree
+3. Neither agree nor disagree
+4. Disagree
+5. Disagree strongly",Opinion-Dependent,"{'1': '23.45%', '2': '46.78%', '3': '15.21%', '4': '7.34%', '5': '7.62%'}"
+Q41,"Do you agree that work should always come first, even if it means less spare time?","['Agree strongly', 'Agree', 'Neither agree nor disagree', 'Disagree', 'Disagree strongly']","['1', '2', '3', '4', '5']","1. Agree strongly
+2. Agree
+3. Neither agree nor disagree
+4. Disagree
+5. Disagree strongly",Opinion-Dependent,"{'1': '15.2%', '2': '28.7%', '3': '20.3%', '4': '23.4%', '5': '12.4%'}"
+Q42,Which of the following statements best describes your own opinion about the society we live in?,"['The entire way our society is organized must be radically changed by revolutionary action', 'Our society must be gradually improved by reforms', 'Our present society must be valiantly defended against all subversive forces']","['1', '2', '3']","1. The entire way our society is organized must be radically changed by revolutionary action
+2. Our society must be gradually improved by reforms
+3. Our present society must be valiantly defended against all subversive forces",Opinion-Dependent,"{'1': '15.79%', '2': '42.36%', '3': '41.85%'}"
+Q43,"If less importance were placed on work in our lives, would you think it would be a good thing, a bad thing, or don't you mind?","['Good', ""Don't mind"", 'Bad']","['1', '2', '3']","1. Good
+2. Don't mind
+3. Bad",Opinion-Dependent,"{'1': '23.45%', '2': '46.78%', '3': '29.77%'}"
+Q44,"If there were more emphasis on the development of technology, would you think it would be a good thing, a bad thing, or don't you mind?","['Good', ""Don't mind"", 'Bad']","['1', '2', '3']","1. Good
+2. Don't mind
+3. Bad",Opinion-Dependent,"{'1': '23.45%', '2': '46.78%', '3': '29.77%'}"
+Q45,"If there were greater respect for authority, would you think it would be a good thing, a bad thing, or don't you mind?","['Good', ""Don't mind"", 'Bad']","['1', '2', '3']","1. Good
+2. Don't mind
+3. Bad",Opinion-Dependent,"{'1': '23.45%', '2': '46.78%', '3': '29.77%'}"
+Q46,"Taking all things together, would you say you are…?","['Very happy', 'Rather happy', 'Not very happy', 'Not at all happy']","['1', '2', '3', '4']","1. Very happy
+2. Rather happy
+3. Not very happy
+4. Not at all happy",Opinion-Dependent,"{'1': '23.6%', '2': '57.4%', '3': '15.3%', '4': '3.7%'}"
+Q48,"How much freedom of choice and control do you feel you have over the way your life turns out, where 1 means 'no choice at all' and 10 means 'a great deal of choice'?","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '1.76%', '2': '2.94%', '3': '4.39%', '4': '5.97%', '5': '9.18%', '6': '11.26%', '7': '12.69%', '8': '14.19%', '9': '15.31%', '10': '21.59%'}"
+Q57,"Generally speaking, would you say that most people can be trusted or that you need to be very careful in dealing with people?","['Most people can be trusted', 'Need to be very careful']","['1', '2']","1. Most people can be trusted
+2. Need to be very careful",Opinion-Dependent,"{'1': '23.45%', '2': '76.55%'}"
+Q58,How much do you trust your family?,"['Trust completely', 'Trust somewhat', 'Do not trust very much', 'Do not trust at all']","['1', '2', '3', '4']","1. Trust completely
+2. Trust somewhat
+3. Do not trust very much
+4. Do not trust at all",Opinion-Dependent,"{'1': '23.45%', '2': '56.78%', '3': '11.23%', '4': '8.54%'}"
+Q59,How much do you trust your neighborhood?,"['Trust completely', 'Trust somewhat', 'Do not trust very much', 'Do not trust at all']","['1', '2', '3', '4']","1. Trust completely
+2. Trust somewhat
+3. Do not trust very much
+4. Do not trust at all",Opinion-Dependent,"{'1': '10%', '2': '40%', '3': '30%', '4': '20%'}"
+Q61,How much do you trust people you meet for the first time?,"['Trust completely', 'Trust somewhat', 'Do not trust very much', 'Do not trust at all']","['1', '2', '3', '4']","1. Trust completely
+2. Trust somewhat
+3. Do not trust very much
+4. Do not trust at all",Opinion-Dependent,"{'1': '3.79%', '2': '24.38%', '3': '31.40%', '4': '40.43%'}"
+Q62,How much do you trust people of another religion?,"['Trust completely', 'Trust somewhat', 'Do not trust very much', 'Do not trust at all']","['1', '2', '3', '4']","1. Trust completely
+2. Trust somewhat
+3. Do not trust very much
+4. Do not trust at all",Opinion-Dependent,"{'1': '10%', '2': '30%', '3': '40%', '4': '20%'}"
+Q63,How much do you trust people of another nationality?,"['Trust completely', 'Trust somewhat', 'Do not trust very much', 'Do not trust at all']","['1', '2', '3', '4']","1. Trust completely
+2. Trust somewhat
+3. Do not trust very much
+4. Do not trust at all",Opinion-Dependent,"{'1': '5.23%', '2': '34.62%', '3': '30.15%', '4': '29.99%'}"
+Q65,How much confidence do you have in the armed forces?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '34.67%', '2': '46.29%', '3': '14.89%', '4': '4.15%'}"
+Q66,How much confidence do you have in the press?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.23%', '2': '42.65%', '3': '26.43%', '4': '15.69%'}"
+Q67,How much confidence do you have in television?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '10%', '2': '30%', '3': '40%', '4': '20%'}"
+Q68,How much confidence do you have in labor unions?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '10%', '2': '20%', '3': '30%', '4': '40%'}"
+Q69,How much confidence do you have in the police?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.23%', '2': '42.65%', '3': '26.43%', '4': '15.69%'}"
+Q70,How much confidence do you have in the courts?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '30%', '2': '50%', '3': '15%', '4': '5%'}"
+Q71,How much confidence do you have in the government?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '10%', '2': '20%', '3': '30%', '4': '40%'}"
+Q72,How much confidence do you have in political parties?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '10%', '2': '20%', '3': '30%', '4': '40%'}"
+Q73,How much confidence do you have in parliament?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.6%', '2': '34.2%', '3': '27.9%', '4': '22.3%'}"
+Q74,How much confidence do you have in the civil service?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.2%', '2': '42.7%', '3': '27.3%', '4': '14.8%'}"
+Q75,How much confidence do you have in universities?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.6%', '2': '42.3%', '3': '26.8%', '4': '15.3%'}"
+Q76,How much confidence do you have in elections?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.6%', '2': '34.2%', '3': '27.9%', '4': '22.3%'}"
+Q77,How much confidence do you have in major companies?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.2%', '2': '36.7%', '3': '31.1%', '4': '17.1%'}"
+Q78,How much confidence do you have in banks?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.23%', '2': '42.65%', '3': '26.43%', '4': '15.69%'}"
+Q79,How much confidence do you have in environmental organizations?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.6%', '2': '34.2%', '3': '27.9%', '4': '22.3%'}"
+Q80,How much confidence do you have in women's organizations?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.6%', '2': '34.2%', '3': '27.9%', '4': '22.3%'}"
+Q81,How much confidence do you have in charitable or humanitarian organizations?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.6%', '2': '42.3%', '3': '26.8%', '4': '15.3%'}"
+Q83,How much confidence do you have in the United Nations?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.6%', '2': '34.2%', '3': '27.9%', '4': '22.3%'}"
+Q84,How much confidence do you have in the International Monetary Fund (IMF)?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.6%', '2': '34.2%', '3': '27.9%', '4': '22.3%'}"
+Q85,How much confidence do you have in the International Criminal Court (ICC)?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.7%', '2': '34.2%', '3': '27.1%', '4': '23.0%'}"
+Q86,How much confidence do you have in the North Atlantic Treaty Organization (NATO)?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.6%', '2': '34.2%', '3': '27.9%', '4': '22.3%'}"
+Q87,How much confidence do you have in the World Bank?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.6%', '2': '34.2%', '3': '27.9%', '4': '22.3%'}"
+Q88,How much confidence do you have in the World Health Organization (WHO)?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.2%', '2': '36.7%', '3': '27.3%', '4': '20.8%'}"
+Q89,How much confidence do you have in the World Trade Organization (WTO)?,"['A great deal', 'Quite a lot', 'Not very much', 'None at all']","['1', '2', '3', '4']","1. A great deal
+2. Quite a lot
+3. Not very much
+4. None at all",Opinion-Dependent,"{'1': '15.23%', '2': '36.78%', '3': '27.12%', '4': '20.87%'}"
+Q90,"What do you think international organizations should prioritize: being effective or being democratic? (If your views are somewhat mixed, choose the appropriate number in between.)","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '10%', '2': '20%', '3': '30%', '4': '20%', '5': '15%', '6': '5%', '7': '5%', '8': '5%', '9': '0%', '10': '0%'}"
+Q91,Five countries have permanent seats on the Security Council of the United Nations. Which one of the following is not a member?,"['France', 'China', 'India']","['1', '2', '3']","1. France
+2. China
+3. India",Objective-Dependent,"{'1': '0%', '2': '0%', '3': '100%'}"
+Q92,Where are the headquarters of the International Monetary Fund (IMF) located?,"['Washington DC', 'London', 'Geneva']","['1', '2', '3']","1. Washington DC
+2. London
+3. Geneva",Objective-Dependent,"{'1': '90.23%', '2': '3.12%', '3': '6.65%'}"
+Q93,Which of the following problems does the organization Amnesty International deal with?,"['Climate change', 'Human rights', 'Destruction of historic monuments']","['1', '2', '3']","1. Climate change
+2. Human rights
+3. Destruction of historic monuments",Objective-Dependent,"{'1': '10.29%', '2': '89.71%'}"
+Q106,Where would you place your view on the following statement: Incomes should be made more equal (1) or there should be greater incentives for individual effort (10)?,"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.23%', '2': '10.45%', '3': '7.89%', '4': '5.62%', '5': '12.87%', '6': '8.74%', '7': '6.52%', '8': '5.19%', '9': '3.47%', '10': '29.79%'}"
+Q107,Where would you place your view on the following statement: Private ownership of business and industry should be increased (1) or government ownership of business and industry should be increased (10)?,"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.23%', '2': '12.65%', '3': '10.32%', '4': '7.89%', '5': '13.46%', '6': '8.91%', '7': '9.23%', '8': '10.79%', '9': '5.62%', '10': '17.21%'}"
+Q108,Where would you place your view on the following statement: Government should take more responsibility to ensure that everyone is provided for (1) or people should take more responsibility to provide for themselves (10)?,"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.23%', '2': '10.45%', '3': '7.89%', '4': '5.62%', '5': '12.31%', '6': '8.79%', '7': '6.45%', '8': '5.32%', '9': '3.21%', '10': '35.92%'}"
+Q109,Where would you place your view on the following statement: Competition is good (1) or competition is harmful (10)?,"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '23.45%', '2': '17.64%', '3': '12.31%', '4': '7.89%', '5': '10.23%', '6': '8.67%', '7': '6.54%', '8': '5.22%', '9': '3.66%', '10': '10.56%'}"
+Q110,"Where would you place your view on the following statement: In the long run, hard work usually brings a better life (1) or hard work doesn’t generally bring success—it's more a matter of luck and connections (10)?","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '30%', '2': '20%', '3': '15%', '4': '5%', '5': '10%', '6': '5%', '7': '5%', '8': '5%', '9': '5%', '10': '10%'}"
+Q111,Which of the following statements comes closer to your own point of view regarding the environment and economic growth?,"['Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs.', 'Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent.', 'Other answer']","['1', '2', '3']","1. Protecting the environment should be given priority, even if it causes slower economic growth and some loss of jobs.
+2. Economic growth and creating jobs should be the top priority, even if the environment suffers to some extent.
+3. Other answer",Opinion-Dependent,"{'1': '34.6%', '2': '65.4%'}"
+Q112,"How would you rate the level of corruption in your country on a 10-point scale, where 1 means 'there is no corruption in my country' and 10 means 'there is abundant corruption in my country'?","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Culture-Dependent,"{'1': '1.45%', '2': '2.91%', '3': '4.37%', '4': '5.83%', '5': '7.29%', '6': '8.75%', '7': '10.21%', '8': '11.67%', '9': '13.13%', '10': '14.59%'}"
+Q113,How many state authorities do you believe are involved in corruption?,"['None of them', 'Few of them', 'Most of them', 'All of them']","['1', '2', '3', '4']","1. None of them
+2. Few of them
+3. Most of them
+4. All of them",Opinion-Dependent,"{'1': '15.6%', '2': '34.2%', '3': '35.2%', '4': '15%'}"
+Q114,How many business executives do you believe are involved in corruption?,"['None of them', 'Few of them', 'Most of them', 'All of them']","['1', '2', '3', '4']","1. None of them
+2. Few of them
+3. Most of them
+4. All of them",Opinion-Dependent,"{'1': '15.6%', '2': '34.2%', '3': '35.2%', '4': '15%'}"
+Q115,How many local authorities do you believe are involved in corruption?,"['None of them', 'Few of them', 'Most of them', 'All of them']","['1', '2', '3', '4']","1. None of them
+2. Few of them
+3. Most of them
+4. All of them",Opinion-Dependent,"{'1': '15.62%', '2': '34.78%', '3': '35.83%', '4': '13.77%'}"
+Q116,"How many civil service providers (police, judiciary, civil servants, doctors, teachers) do you believe are involved in corruption?","['None of them', 'Few of them', 'Most of them', 'All of them']","['1', '2', '3', '4']","1. None of them
+2. Few of them
+3. Most of them
+4. All of them",Opinion-Dependent,"{'1': '23.45%', '2': '46.78%', '3': '21.26%', '4': '8.51%'}"
+Q117,How many journalists and media do you believe are involved in corruption?,"['None of them', 'Few of them', 'Most of them', 'All of them']","['1', '2', '3', '4']","1. None of them
+2. Few of them
+3. Most of them
+4. All of them",Opinion-Dependent,"{'1': '15.6%', '2': '34.2%', '3': '35.2%', '4': '15%'}"
+Q119,"How strongly do you agree or disagree with the following statement: 'On the whole, women are less corrupt than men'?","['Strongly agree', 'Agree', 'Disagree', 'Strongly disagree', 'Hard to say']","['1', '2', '3', '4', '0']","1. Strongly agree
+2. Agree
+3. Disagree
+4. Strongly disagree
+0. Hard to say",Opinion-Dependent,"{'1': '10.29%', '2': '23.68%', '3': '15.56%', '4': '37.69%', '0': '12.79%'}"
+Q120,"How high do you think the risk is in this country to be held accountable for giving or receiving a bribe, gift, or favor in return for public service, on a scale where 1 means 'no risk at all' and 10 means 'very high risk'?","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Culture-Dependent,"{'1': '1.45%', '2': '2.79%', '3': '4.36%', '4': '5.98%', '5': '7.56%', '6': '9.21%', '7': '10.02%', '8': '11.34%', '9': '12.87%', '10': '14.29%'}"
+Q121,How would you evaluate the impact of immigrants on the development of your country?,"['Very bad', 'Quite bad', 'Neither good nor bad', 'Quite good', 'Very good']","['1', '2', '3', '4', '5']","1. Very bad
+2. Quite bad
+3. Neither good nor bad
+4. Quite good
+5. Very good",Culture-Dependent,"{'1': '10.29%', '2': '6.45%', '3': '13.79%', '4': '26.61%', '5': '42.96%'}"
+Q122,Do you agree or disagree with the following statement: Immigration fills important job vacancies?,"['Agree', 'Hard to say', 'Disagree']","['2', '1', '0']","2. Agree
+1. Hard to say
+0. Disagree",Opinion-Dependent,"{'2': '56.25%', '1': '25%', '0': '18.75%'}"
+Q123,Do you agree or disagree with the following statement: Immigration strengthens cultural diversity?,"['Agree', 'Hard to say', 'Disagree']","['2', '1', '0']","2. Agree
+1. Hard to say
+0. Disagree",Opinion-Dependent,"{'2': '60%', '1': '20%', '0': '20%'}"
+Q124,Do you agree or disagree with the following statement: Immigration increases the crime rate?,"['Agree', 'Hard to say', 'Disagree']","['2', '1', '0']","2. Agree
+1. Hard to say
+0. Disagree",Opinion-Dependent,"{'2': '20%', '1': '50%', '0': '30%'}"
+Q125,Do you agree or disagree with the following statement: Immigration gives asylum to political refugees who are persecuted elsewhere?,"['Agree', 'Hard to say', 'Disagree']","['2', '1', '0']","2. Agree
+1. Hard to say
+0. Disagree",Opinion-Dependent,"{'2': '60%', '1': '20%', '0': '20%'}"
+Q126,Do you agree or disagree with the following statement: Immigration increases the risks of terrorism?,"['Agree', 'Hard to say', 'Disagree']","['2', '1', '0']","2. Agree
+1. Hard to say
+0. Disagree",Opinion-Dependent,"{'2': '20%', '1': '50%', '0': '30%'}"
+Q127,Do you agree or disagree with the following statement: Immigration offers people from poor countries a better living?,"['Agree', 'Hard to say', 'Disagree']","['2', '1', '0']","2. Agree
+1. Hard to say
+0. Disagree",Opinion-Dependent,"{'2': '56.7%', '1': '27.3%', '0': '16%'}"
+Q128,Do you agree or disagree with the following statement: Immigration increases unemployment?,"['Agree', 'Hard to say', 'Disagree']","['2', '1', '0']","2. Agree
+1. Hard to say
+0. Disagree",Opinion-Dependent,"{'2': '20%', '1': '50%', '0': '30%'}"
+Q129,Do you agree or disagree with the following statement: Immigration leads to social conflict?,"['Agree', 'Hard to say', 'Disagree']","['2', '1', '0']","2. Agree
+1. Hard to say
+0. Disagree",Opinion-Dependent,"{'2': '20%', '1': '50%', '0': '30%'}"
+Q130,What do you think the government should do about people from other countries coming here to work?,"['Let anyone come who wants to', 'Let people come as long as there are jobs available', 'Place strict limits on the number of foreigners who can come here', 'Prohibit people coming here from other countries']","['1', '2', '3', '4']","1. Let anyone come who wants to
+2. Let people come as long as there are jobs available
+3. Place strict limits on the number of foreigners who can come here
+4. Prohibit people coming here from other countries",Culture-Dependent,"{'1': '10.29%', '2': '34.62%', '3': '27.19%', '4': '27.91%'}"
+Q131,How secure do you feel these days?,"['Very secure', 'Quite secure', 'Not very secure', 'Not at all secure']","['1', '2', '3', '4']","1. Very secure
+2. Quite secure
+3. Not very secure
+4. Not at all secure",Opinion-Dependent,"{'1': '23.45%', '2': '46.78%', '3': '21.27%', '4': '7.5%'}"
+Q142,To what degree are you worried about losing your job or not finding a job?,"['Very much', 'A good deal', 'Not much', 'Not at all']","['1', '2', '3', '4']","1. Very much
+2. A good deal
+3. Not much
+4. Not at all",Opinion-Dependent,"{'1': '23.45%', '2': '36.78%', '3': '26.32%', '4': '13.45%'}"
+Q146,To what degree are you worried about a war involving your country?,"['Very much', 'A good deal', 'Not much', 'Not at all']","['1', '2', '3', '4']","1. Very much
+2. A good deal
+3. Not much
+4. Not at all",Culture-Dependent,"{'1': '23.45%', '2': '36.78%', '3': '26.32%', '4': '13.45%'}"
+Q147,To what degree are you worried about a terrorist attack?,"['Very much', 'A good deal', 'Not much', 'Not at all']","['1', '2', '3', '4']","1. Very much
+2. A good deal
+3. Not much
+4. Not at all",Opinion-Dependent,"{'1': '15.43%', '2': '28.72%', '3': '34.81%', '4': '21.04%'}"
+Q148,To what degree are you worried about a civil war?,"['Very much', 'A good deal', 'Not much', 'Not at all']","['1', '2', '3', '4']","1. Very much
+2. A good deal
+3. Not much
+4. Not at all",Opinion-Dependent,"{'1': '15.6%', '2': '28.7%', '3': '37.4%', '4': '18.3%'}"
+Q149,"If you had to choose between freedom and equality, which one would you consider more important?","['Freedom', 'Equality']","['1', '2']","1. Freedom
+2. Equality",Opinion-Dependent,"{'1': '23.45%', '2': '76.55%'}"
+Q150,"If you had to choose between freedom and security, which one would you consider more important?","['Freedom', 'Security']","['1', '2']","1. Freedom
+2. Security",Opinion-Dependent,"{'1': '13.64%', '2': '86.36%'}"
+Q151,"If there were to be another war, would you be willing to fight for your country?","['Yes', 'No']","['1', '2']","1. Yes
+2. No",Culture-Dependent,"{'1': '98.76%', '2': '1.24%'}"
+Q158,"How much do you agree or disagree with the statement: 'Science and technology are making our lives healthier, easier, and more comfortable'? 1 means 'Completely disagree' and 10 means 'Completely agree'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '6.23%', '2': '5.41%', '3': '7.89%', '4': '11.24%', '5': '18.67%', '6': '14.22%', '7': '11.54%', '8': '7.99%', '9': '4.73%', '10': '18.57%'}"
+Q159,"How much do you agree or disagree with the statement: 'Because of science and technology, there will be more opportunities for the next generation'? 1 means 'Completely disagree' and 10 means 'Completely agree'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '6.23%', '2': '5.41%', '3': '7.89%', '4': '11.02%', '5': '13.64%', '6': '12.58%', '7': '10.11%', '8': '8.99%', '9': '6.32%', '10': '25.99%'}"
+Q160,How much do you agree or disagree with the statement: 'We depend too much on science and not enough on faith'? 1 means 'Completely disagree' and 10 means 'Completely agree',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '11.55%', '2': '7.38%', '3': '9.81%', '4': '8.68%', '5': '16.32%', '6': '9.41%', '7': '8.58%', '8': '10.45%', '9': '5.44%', '10': '12.38%'}"
+Q161,How much do you agree or disagree with the statement: 'One of the bad effects of science is that it breaks down people’s ideas of right and wrong'? 1 means 'Completely disagree' and 10 means 'Completely agree',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '12.63%', '2': '10.38%', '3': '11.05%', '4': '9.81%', '5': '13.27%', '6': '10.98%', '7': '11.59%', '8': '10.13%', '9': '8.72%', '10': '11.49%'}"
+Q162,How much do you agree or disagree with the statement: 'It is not important for me to know about science in my daily life'? 1 means 'Completely disagree' and 10 means 'Completely agree',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '10.29%', '2': '11.79%', '3': '10.95%', '4': '9.78%', '5': '11.39%', '6': '10.29%', '7': '9.63%', '8': '10.12%', '9': '9.21%', '10': '11.28%'}"
+Q163,"All things considered, would you say that the world is better off or worse off because of science and technology, where 1 means 'the world is a lot worse off' and 10 means 'the world is a lot better off'?","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '1.45%', '2': '2.76%', '3': '4.21%', '4': '5.89%', '5': '11.23%', '6': '13.68%', '7': '15.49%', '8': '16.91%', '9': '10.27%', '10': '17.51%'}"
+Q164,"How important is God in your life? Please rate on a scale from 1 to 10, where 1 means 'not at all important' and 10 means 'very important'.","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '10.29%', '2': '7.61%', '3': '6.47%', '4': '5.59%', '5': '7.97%', '6': '8.79%', '7': '8.36%', '8': '7.14%', '9': '4.79%', '10': '11.62%'}"
+Q165,Do you believe in God?,"['Yes', 'No']","['1', '2']","1. Yes
+2. No",Opinion-Dependent,"{'1': '30%', '2': '70%'}"
+Q166,Do you believe in life after death?,"['Yes', 'No']","['1', '2']","1. Yes
+2. No",Opinion-Dependent,"{'1': '45.2%', '2': '54.8%'}"
+Q167,Do you believe in hell?,"['Yes', 'No']","['1', '2']","1. Yes
+2. No",Opinion-Dependent,"{'1': '70%', '2': '30%'}"
+Q168,Do you believe in heaven?,"['Yes', 'No']","['1', '2']","1. Yes
+2. No",Opinion-Dependent,"{'1': '70%', '2': '30%'}"
+Q169,"Do you strongly agree, agree, disagree, or strongly disagree with the statement: 'Whenever science and religion conflict, religion is always right'?","['Strongly agree', 'Agree', 'Disagree', 'Strongly disagree']","['1', '2', '3', '4']","1. Strongly agree
+2. Agree
+3. Disagree
+4. Strongly disagree",Opinion-Dependent,"{'1': '6.25%', '2': '12.5%', '3': '31.25%', '4': '50%'}"
+Q170,"Do you strongly agree, agree, disagree, or strongly disagree with the statement: 'The only acceptable religion is my religion'?","['Strongly agree', 'Agree', 'Disagree', 'Strongly disagree']","['1', '2', '3', '4']","1. Strongly agree
+2. Agree
+3. Disagree
+4. Strongly disagree",Opinion-Dependent,"{'1': '10.29%', '2': '15.69%', '3': '27.79%', '4': '46.23%'}"
+Q173,"Independently of whether you attend religious services or not, would you say you are…?","['A religious person', 'Not a religious person', 'An atheist']","['1', '2', '3']","1. A religious person
+2. Not a religious person
+3. An atheist",Opinion-Dependent,"{'1': '23.45%', '2': '56.78%', '3': '19.77%'}"
+Q174,With which one of the following statements do you agree most? The basic meaning of religion is:,"['To follow religious norms and ceremonies', 'To do good to other people']","['1', '2']","1. To follow religious norms and ceremonies
+2. To do good to other people",Opinion-Dependent,"{'1': '23.45%', '2': '76.55%'}"
+Q175,With which one of the following statements do you agree most? The basic meaning of religion is:,"['To make sense of life after death', 'To make sense of life in this world']","['1', '2']","1. To make sense of life after death
+2. To make sense of life in this world",Opinion-Dependent,"{'1': '23.45%', '2': '76.55%'}"
+Q176,"How much do you agree or disagree with the statement that nowadays one often has trouble deciding which moral rules are the right ones to follow? 1 means completely agree, 10 means completely disagree","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '23.45%', '2': '17.64%', '3': '12.31%', '4': '9.82%', '5': '13.67%', '6': '7.34%', '7': '5.69%', '8': '3.28%', '9': '1.73%', '10': '11.26%'}"
+Q177,"Do you think claiming government benefits to which you are not entitled can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '89.63%', '2': '3.45%', '3': '1.82%', '4': '0.98%', '5': '0.69%', '6': '0.45%', '7': '0.45%', '8': '0.36%', '9': '0.27%', '10': '0.27%'}"
+Q178,"Do you think avoiding a fare on public transport can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '89.3%', '2': '3.7%', '3': '1.7%', '4': '1.4%', '5': '1.3%', '6': '0.7%', '7': '0.4%', '8': '0.3%', '9': '0.2%', '10': '0.2%'}"
+Q179,"Do you think stealing property can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '89.63%', '2': '3.45%', '3': '1.82%', '4': '0.98%', '5': '0.69%', '6': '0.49%', '7': '0.49%', '8': '0.39%', '9': '0.39%', '10': '0.32%'}"
+Q180,"Do you think cheating on taxes if you have a chance can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '89.63%', '2': '3.45%', '3': '1.82%', '4': '0.98%', '5': '0.69%', '6': '0.49%', '7': '0.49%', '8': '0.36%', '9': '0.27%', '10': '0.15%'}"
+Q181,"Do you think someone accepting a bribe in the course of their duties can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '89.63%', '2': '3.45%', '3': '1.82%', '4': '0.98%', '5': '0.69%', '6': '0.45%', '7': '0.45%', '8': '0.36%', '9': '0.27%', '10': '0.27%'}"
+Q182,"Do you think homosexuality can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '10%', '2': '15%', '3': '20%', '4': '15%', '5': '10%', '6': '10%', '7': '10%', '8': '10%', '9': '5%', '10': '15%'}"
+Q183,"Do you think prostitution can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '23.45%', '2': '12.63%', '3': '10.34%', '4': '7.89%', '5': '13.21%', '6': '8.67%', '7': '9.12%', '8': '6.32%', '9': '3.57%', '10': '5.53%'}"
+Q184,"Do you think abortion can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.23%', '2': '11.62%', '3': '10.34%', '4': '8.72%', '5': '12.69%', '6': '9.71%', '7': '10.96%', '8': '11.39%', '9': '6.71%', '10': '17.02%'}"
+Q185,"Do you think divorce can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '10.29%', '2': '6.45%', '3': '7.69%', '4': '5.32%', '5': '12.67%', '6': '8.98%', '7': '7.14%', '8': '6.32%', '9': '4.56%', '10': '25.51%'}"
+Q186,"Do you think sex before marriage can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.23%', '2': '11.32%', '3': '12.65%', '4': '9.66%', '5': '13.44%', '6': '10.59%', '7': '11.97%', '8': '9.79%', '9': '6.73%', '10': '11.92%'}"
+Q187,"Do you think suicide can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '89.2%', '2': '3.7%', '3': '1.9%', '4': '1.4%', '5': '1.3%', '6': '0.9%', '7': '0.5%', '8': '0.3%', '9': '0.2%', '10': '0.2%'}"
+Q188,"Do you think euthanasia can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '23.45%', '2': '12.65%', '3': '10.34%', '4': '7.89%', '5': '13.21%', '6': '8.67%', '7': '5.43%', '8': '3.79%', '9': '2.61%', '10': '15.24%'}"
+Q189,"Do you think it can be justified for a man to beat his wife? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '99.99%', '2': '0.01%'}"
+Q190,"Do you think it can be justified for parents to beat their children? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '89.21%', '2': '3.42%', '3': '1.76%', '4': '0.91%', '5': '1.49%', '6': '0.69%', '7': '0.49%', '8': '0.49%', '9': '0.49%', '10': '1.02%'}"
+Q191,"Do you think violence against other people can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '89.63%', '2': '3.45%', '3': '1.82%', '4': '0.98%', '5': '0.79%', '6': '0.47%', '7': '0.39%', '8': '0.29%', '9': '0.24%', '10': '0.17%'}"
+Q192,"Do you think terrorism as a political, ideological or religious means can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '89.63%', '2': '3.45%', '3': '1.82%', '4': '0.98%', '5': '0.69%', '6': '0.58%', '7': '0.47%', '8': '0.37%', '9': '0.29%', '10': '0.24%'}"
+Q193,"Do you think having casual sex can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '23.45%', '2': '12.67%', '3': '10.34%', '4': '7.89%', '5': '13.21%', '6': '8.79%', '7': '9.12%', '8': '6.57%', '9': '3.59%', '10': '5.29%'}"
+Q194,"Do you think political violence can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '89.63%', '2': '3.12%', '3': '1.58%', '4': '1.29%', '5': '1.09%', '6': '0.79%', '7': '0.49%', '8': '0.39%', '9': '0.29%', '10': '0.22%'}"
+Q195,"Do you think the death penalty can be justified? 1 means 'Never justified', 10 means 'Always justified'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '15.43%', '2': '11.21%', '3': '10.34%', '4': '8.67%', '5': '11.98%', '6': '10.69%', '7': '9.72%', '8': '8.91%', '9': '6.69%', '10': '17.52%'}"
+Q196,Do you think that your country's government should have the right to keep people under video surveillance in public areas?,"['Definitely should have the right', 'Probably should have the right', 'Probably should not have the right', 'Definitely should not have the right']","['1', '2', '3', '4']","1. Definitely should have the right
+2. Probably should have the right
+3. Probably should not have the right
+4. Definitely should not have the right",Culture-Dependent,"{'1': '10.29%', '2': '23.68%', '3': '36.03%', '4': '30.00%'}"
+Q197,Do you think that your country's government should have the right to monitor all e-mails and any other information exchanged on the Internet?,"['Definitely should have the right', 'Probably should have the right', 'Probably should not have the right', 'Definitely should not have the right']","['1', '2', '3', '4']","1. Definitely should have the right
+2. Probably should have the right
+3. Probably should not have the right
+4. Definitely should not have the right",Culture-Dependent,"{'1': '1.45%', '2': '5.21%', '3': '27.69%', '4': '65.65%'}"
+Q198,Do you think that your country's government should have the right to collect information about anyone living in this country without their knowledge?,"['Definitely should have the right', 'Probably should have the right', 'Probably should not have the right', 'Definitely should not have the right']","['1', '2', '3', '4']","1. Definitely should have the right
+2. Probably should have the right
+3. Probably should not have the right
+4. Definitely should not have the right",Culture-Dependent,"{'1': '1.2%', '2': '13.6%', '3': '47.2%', '4': '38.1%'}"
+Q199,How interested would you say you are in politics?,"['Very interested', 'Somewhat interested', 'Not very interested', 'Not at all interested']","['1', '2', '3', '4']","1. Very interested
+2. Somewhat interested
+3. Not very interested
+4. Not at all interested",Opinion-Dependent,"{'1': '15.6%', '2': '34.2%', '3': '30.2%', '4': '20%'}"
+Q224,"In your view, how often are votes counted fairly in this country's elections?","['Very often', 'Fairly often', 'Not often', 'Not at all often']","['1', '2', '3', '4']","1. Very often
+2. Fairly often
+3. Not often
+4. Not at all often",Culture-Dependent,"{'1': '10.29%', '2': '24.65%', '3': '37.79%', '4': '27.27%'}"
+Q225,"In your view, how often are opposition candidates prevented from running in this country's elections?","['Very often', 'Fairly often', 'Not often', 'Not at all often']","['1', '2', '3', '4']","1. Very often
+2. Fairly often
+3. Not often
+4. Not at all often",Culture-Dependent,"{'1': '15.62%', '2': '27.45%', '3': '31.26%', '4': '25.67%'}"
+Q226,"In your view, how often does TV news favor the governing party in this country's elections?","['Very often', 'Fairly often', 'Not often', 'Not at all often']","['1', '2', '3', '4']","1. Very often
+2. Fairly often
+3. Not often
+4. Not at all often",Culture-Dependent,"{'1': '23.64%', '2': '36.21%', '3': '20.15%', '4': '20.00%'}"
+Q227,"In your view, how often are voters bribed in this country's elections?","['Very often', 'Fairly often', 'Not often', 'Not at all often']","['1', '2', '3', '4']","1. Very often
+2. Fairly often
+3. Not often
+4. Not at all often",Culture-Dependent,"{'1': '15.43%', '2': '27.89%', '3': '31.93%', '4': '24.75%'}"
+Q228,"In your view, how often do journalists provide fair coverage of elections in this country?","['Very often', 'Fairly often', 'Not often', 'Not at all often']","['1', '2', '3', '4']","1. Very often
+2. Fairly often
+3. Not often
+4. Not at all often",Culture-Dependent,"{'1': '10%', '2': '20%', '3': '30%', '4': '40%'}"
+Q229,"In your view, how often are election officials fair in this country's elections?","['Very often', 'Fairly often', 'Not often', 'Not at all often']","['1', '2', '3', '4']","1. Very often
+2. Fairly often
+3. Not often
+4. Not at all often",Culture-Dependent,"{'1': '10.29%', '2': '24.65%', '3': '37.79%', '4': '27.27%'}"
+Q230,"In your view, how often do rich people buy elections in this country?","['Very often', 'Fairly often', 'Not often', 'Not at all often']","['1', '2', '3', '4']","1. Very often
+2. Fairly often
+3. Not often
+4. Not at all often",Culture-Dependent,"{'1': '23.45%', '2': '36.78%', '3': '21.21%', '4': '18.56%'}"
+Q231,"In your view, how often are voters threatened with violence at the polls in this country?","['Very often', 'Fairly often', 'Not often', 'Not at all often']","['1', '2', '3', '4']","1. Very often
+2. Fairly often
+3. Not often
+4. Not at all often",Culture-Dependent,"{'1': '1.2%', '2': '3.7%', '3': '17.9%', '4': '77.2%'}"
+Q232,"In your view, how often are voters offered a genuine choice in this country's elections?","['Very often', 'Fairly often', 'Not often', 'Not at all often']","['1', '2', '3', '4']","1. Very often
+2. Fairly often
+3. Not often
+4. Not at all often",Culture-Dependent,"{'1': '10.29%', '2': '24.65%', '3': '37.79%', '4': '27.27%'}"
+Q233,"In your view, how often do women have equal opportunities to run for office in this country's elections?","['Very often', 'Fairly often', 'Not often', 'Not at all often']","['1', '2', '3', '4']","1. Very often
+2. Fairly often
+3. Not often
+4. Not at all often",Culture-Dependent,"{'1': '10%', '2': '20%', '3': '30%', '4': '40%'}"
+Q234,How important would you say having honest elections is for you?,"['Very important', 'Rather important', 'Not very important', 'Not at all important']","['1', '2', '3', '4']","1. Very important
+2. Rather important
+3. Not very important
+4. Not at all important",Opinion-Dependent,"{'1': '43.2%', '2': '37.6%', '3': '11.2%', '4': '8%'}"
+Q235,What do you think about having a strong leader who does not have to bother with parliament and elections as a way of governing this country?,"['Very good', 'Fairly good', 'Fairly bad', 'Very bad']","['1', '2', '3', '4']","1. Very good
+2. Fairly good
+3. Fairly bad
+4. Very bad",Culture-Dependent,"{'1': '15.23%', '2': '21.46%', '3': '27.14%', '4': '36.17%'}"
+Q236,"What do you think about having experts, not government, make decisions according to what they think is best for the country as a way of governing this country?","['Very good', 'Fairly good', 'Fairly bad', 'Very bad']","['1', '2', '3', '4']","1. Very good
+2. Fairly good
+3. Fairly bad
+4. Very bad",Culture-Dependent,"{'1': '15.23%', '2': '26.47%', '3': '21.34%', '4': '36.96%'}"
+Q237,What do you think about having the army rule as a way of governing this country?,"['Very good', 'Fairly good', 'Fairly bad', 'Very bad']","['1', '2', '3', '4']","1. Very good
+2. Fairly good
+3. Fairly bad
+4. Very bad",Culture-Dependent,"{'1': '1.2%', '2': '2.7%', '3': '17.9%', '4': '78.2%'}"
+Q238,What do you think about having a democratic political system as a way of governing this country?,"['Very good', 'Fairly good', 'Fairly bad', 'Very bad']","['1', '2', '3', '4']","1. Very good
+2. Fairly good
+3. Fairly bad
+4. Very bad",Culture-Dependent,"{'1': '23.45%', '2': '36.78%', '3': '12.34%', '4': '27.45%'}"
+Q239,What do you think about having a system governed by religious law in which there are no political parties or elections as a way of governing this country?,"['Very good', 'Fairly good', 'Fairly bad', 'Very bad']","['1', '2', '3', '4']","1. Very good
+2. Fairly good
+3. Fairly bad
+4. Very bad",Culture-Dependent,"{'1': '1.23%', '2': '2.56%', '3': '15.67%', '4': '80.54%'}"
+Q240,"In political matters, people talk of 'the left' and 'the right.' How would you place your views on this scale, generally speaking? 1 means 'the left' and 10 means 'the right'","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '12.38%', '2': '7.38%', '3': '9.81%', '4': '8.68%', '5': '16.32%', '6': '9.41%', '7': '8.58%', '8': '10.45%', '9': '5.44%', '10': '12.38%'}"
+Q241,How essential do you think it is as a characteristic of democracy that governments tax the rich and subsidize the poor? 1 means 'Not an essential characteristic of democracy' and 10 means 'An essential characteristic of democracy',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '10.29%', '2': '11.23%', '3': '12.56%', '4': '10.98%', '5': '13.45%', '6': '11.59%', '7': '10.91%', '8': '11.34%', '9': '9.36%', '10': '12.33%'}"
+Q242,How essential do you think it is as a characteristic of democracy that religious authorities ultimately interpret the laws? 1 means 'Not an essential characteristic of democracy' and 10 means 'An essential characteristic of democracy',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '10.29%', '2': '13.68%', '3': '11.14%', '4': '9.79%', '5': '12.39%', '6': '10.68%', '7': '9.56%', '8': '11.29%', '9': '7.79%', '10': '12.49%'}"
+Q243,How essential do you think it is as a characteristic of democracy that people choose their leaders in free elections? 1 means 'Not an essential characteristic of democracy' and 10 means 'An essential characteristic of democracy',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '6.64%', '2': '93.36%'}"
+Q244,How essential do you think it is as a characteristic of democracy that people receive state aid for unemployment? 1 means 'Not an essential characteristic of democracy' and 10 means 'An essential characteristic of democracy',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '21.43%', '2': '14.29%', '3': '10.76%', '4': '8.51%', '5': '11.43%', '6': '9.71%', '7': '7.64%', '8': '5.29%', '9': '3.08%', '10': '17.57%'}"
+Q245,How essential do you think it is as a characteristic of democracy that the army takes over when government is incompetent? 1 means 'Not an essential characteristic of democracy' and 10 means 'An essential characteristic of democracy',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '93.36%', '2': '6.64%'}"
+Q246,How essential do you think it is as a characteristic of democracy that civil rights protect people from state oppression? 1 means 'Not an essential characteristic of democracy' and 10 means 'An essential characteristic of democracy',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '6.64%', '2': '93.36%'}"
+Q247,How essential do you think it is as a characteristic of democracy that the state makes people's incomes equal? 1 means 'Not an essential characteristic of democracy' and 10 means 'An essential characteristic of democracy',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '23.45%', '2': '17.64%', '3': '12.31%', '4': '9.87%', '5': '13.29%', '6': '7.53%', '7': '6.91%', '8': '5.12%', '9': '3.17%', '10': '11.34%'}"
+Q248,How essential do you think it is as a characteristic of democracy that people obey their rulers? 1 means 'Not an essential characteristic of democracy' and 10 means 'An essential characteristic of democracy',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '23.45%', '2': '12.67%', '3': '15.34%', '4': '7.89%', '5': '10.23%', '6': '8.76%', '7': '5.67%', '8': '6.54%', '9': '3.56%', '10': '17.23%'}"
+Q249,How essential do you think it is as a characteristic of democracy that women have the same rights as men? 1 means 'Not an essential characteristic of democracy' and 10 means 'An essential characteristic of democracy',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '6.23%', '2': '5.41%', '3': '6.98%', '4': '7.89%', '5': '11.55%', '6': '10.29%', '7': '8.67%', '8': '7.42%', '9': '5.31%', '10': '29.94%'}"
+Q250,How important is it for you to live in a country that is governed democratically? 1 means 'Not at all important' and 10 means 'Absolutely important',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Opinion-Dependent,"{'1': '6.23%', '2': '5.41%', '3': '7.89%', '4': '11.24%', '5': '13.67%', '6': '12.58%', '7': '10.97%', '8': '8.72%', '9': '5.56%', '10': '27.26%'}"
+Q251,How democratically is this country being governed today? 1 means 'Not at all democratic' and 10 means 'Completely democratic',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Culture-Dependent,"{'1': '12.5%', '2': '17.5%', '3': '15%', '4': '12.5%', '5': '15%', '6': '10%', '7': '10%', '8': '10%', '9': '5%', '10': '5%'}"
+Q252,How satisfied are you with how the political system is functioning in your country these days? 1 means 'Not satisfied at all' and 10 means 'Completely satisfied',"['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']","1. 1
+2. 2
+3. 3
+4. 4
+5. 5
+6. 6
+7. 7
+8. 8
+9. 9
+10. 10",Culture-Dependent,"{'1': '10.2%', '2': '12.6%', '3': '14.4%', '4': '11.9%', '5': '13.2%', '6': '12.9%', '7': '11.7%', '8': '10.9%', '9': '8.3%', '10': '7.4%'}"
+Q253,How much respect is there for individual human rights nowadays in this country?,"['A great deal of respect for individual human rights', 'Fairly much respect', 'Not much respect', 'No respect at all']","['1', '2', '3', '4']","1. A great deal of respect for individual human rights
+2. Fairly much respect
+3. Not much respect
+4. No respect at all",Culture-Dependent,"{'1': '12.63%', '2': '27.45%', '3': '32.16%', '4': '27.76%'}"
+Q259,How close do you feel to the world?,"['Very close', 'Close', 'Not very close', 'Not close at all']","['1', '2', '3', '4']","1. Very close
+2. Close
+3. Not very close
+4. Not close at all",Opinion-Dependent,"{'1': '15.6%', '2': '34.2%', '3': '27.9%', '4': '22.3%'}"
+Q60,How much do you trust people you know personally?,"['Trust completely', 'Trust somewhat', 'Do not trust very much', 'Do not trust at all']","['1', '2', '3', '4']","1. Trust completely
+2. Trust somewhat
+3. Do not trust very much
+4. Do not trust at all",Opinion-Dependent,"{'1': '10%', '2': '60%', '3': '20%', '4': '10%'}"
