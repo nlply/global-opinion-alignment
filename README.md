@@ -53,3 +53,16 @@ Compare to `prob_by_api.py`, The only different is that `<model_name>` can be on
 After running the code, the results will be saved in results/RQ2/`<steering_method>`/`<country>`/`<model_name>`/results.csv.
 
 **Note:** all the results already exist in the `results/RQ1/` and `results/RQ2/` folders, so you don't need to run the code again. If you are interested in the results, you can check the `results/RQ1/` and `results/RQ2/` folders and plot the results using the code under the [show_results](show_results) folder. 
+
+**Citation:**
+```
+@misc{liu2025alignmentlargelanguagemodels,
+      title={On the Alignment of Large Language Models with Global Human Opinion}, 
+      author={Yang Liu and Masahiro Kaneko and Chenhui Chu},
+      year={2025},
+      eprint={2509.01418},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2509.01418}, 
+}
+```
