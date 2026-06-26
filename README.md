@@ -57,10 +57,13 @@ After running the code, the results will be saved in results/RQ2/`<steering_meth
 
 **Citation:**
 ```
-@article{liu2025alignment,
-  title={On the Alignment of Large Language Models with Global Human Opinion},
+@inproceedings{liu2026alignment,
+  title={On the alignment of large language models with global human opinion},
   author={Liu, Yang and Kaneko, Masahiro and Chu, Chenhui},
-  journal={arXiv preprint arXiv:2509.01418},
-  year={2025}
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={40},
+  number={44},
+  pages={37673--37681},
+  year={2026}
 }
 ```
